@@ -308,11 +308,11 @@ This study presents a rainfall-validated and regime-aware workflow for construct
 
 ## Data availability
 
-The raw FAWN observations used in this study are maintained by the Florida Automated Weather Network and are not redistributed by the authors. The derived event audit tables, loss-function diagnostic summaries, CSR source data, held-out validation outputs, figure source tables, and manuscript figures are available at https://github.com/garyzhang332/smde-csr-jhydrol. Users with authorized access to the FAWN project database can regenerate the yearly source parquet files using the database extraction scripts in the repository after setting the `FAWN_DB_URL` environment variable.
+The raw FAWN observations used in this study are maintained by the Florida Automated Weather Network and are not redistributed by the authors. The derived event audit tables, loss-function diagnostic summaries, CSR source data, held-out validation outputs, figure source tables, and manuscript figures are available at https://github.com/garyzhang332/smde-csr. Users with authorized access to the FAWN project database can regenerate the yearly source parquet files using the database extraction scripts in the repository after setting the `FAWN_DB_URL` environment variable.
 
 ## Code availability
 
-The Python scripts used for SMDE detection, precipitation audit, loss-function regime diagnosis, localized segmented CSR construction, held-out validation, and figure generation are available at https://github.com/garyzhang332/smde-csr-jhydrol.
+The Python scripts used for SMDE detection, precipitation audit, loss-function regime diagnosis, localized segmented CSR construction, held-out validation, and figure generation are available at https://github.com/garyzhang332/smde-csr.
 
 ## Acknowledgements
 
