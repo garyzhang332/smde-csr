@@ -170,7 +170,7 @@ def plot_fawn_empirical_loss(ax: plt.Axes) -> None:
     ax.set_ylim(0, max(0.88, data["loss_mm_h_q75"].quantile(0.98) * 1.10))
     ax.set_xlabel(r"Normalized event storage, $x$ (dry 0 $\rightarrow$ wet 1)")
     ax.set_ylabel(r"Median loss rate (mm h$^{-1}$)")
-    ax.set_title("Empirical FAWN loss-storage relation, 4 in layer", loc="left", fontsize=8, pad=7)
+    ax.set_title("Empirical FAWN loss-storage relation, 4-inch layer", loc="left", fontsize=8, pad=7)
     ax.legend(loc="upper left", fontsize=6.4, handlelength=1.8, ncol=1)
     style_axis(ax)
 
