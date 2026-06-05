@@ -1,0 +1,5 @@
+step,events,fraction_of_detected
+Detected SMDEs,7147,1.0
+Rain <=48 h,5520,0.7723520358192248
+Clean rain <=48 h,4044,0.5658318175458235
+Clean + stage-II-like,1873,0.2620680005596754

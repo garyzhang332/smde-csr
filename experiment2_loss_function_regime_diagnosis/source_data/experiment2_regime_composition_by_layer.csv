@@ -1,0 +1,21 @@
+layer,regime_proxy,events,layer_label,regime_label,fraction_of_layer
+moisture_4in,stage-II-like,2408,4 in,Stage-II-like,0.5631431244153414
+moisture_4in,stage-I-like,338,4 in,Stage-I-like,0.07904583723105706
+moisture_4in,early-transient-heavy,1333,4 in,Early transient,0.3117399438727783
+moisture_4in,mixed_or_uncertain,197,4 in,Mixed/uncertain,0.0460710944808232
+moisture_8in,stage-II-like,485,8 in,Stage-II-like,0.47830374753451677
+moisture_8in,stage-I-like,58,8 in,Stage-I-like,0.05719921104536489
+moisture_8in,early-transient-heavy,426,8 in,Early transient,0.42011834319526625
+moisture_8in,mixed_or_uncertain,45,8 in,Mixed/uncertain,0.04437869822485207
+moisture_12in,stage-II-like,203,12 in,Stage-II-like,0.32532051282051283
+moisture_12in,stage-I-like,33,12 in,Stage-I-like,0.052884615384615384
+moisture_12in,early-transient-heavy,371,12 in,Early transient,0.594551282051282
+moisture_12in,mixed_or_uncertain,17,12 in,Mixed/uncertain,0.027243589743589744
+moisture_16in,stage-II-like,122,16 in,Stage-II-like,0.19242902208201892
+moisture_16in,stage-I-like,12,16 in,Stage-I-like,0.01892744479495268
+moisture_16in,early-transient-heavy,490,16 in,Early transient,0.7728706624605678
+moisture_16in,mixed_or_uncertain,10,16 in,Mixed/uncertain,0.015772870662460567
+moisture_20in,stage-II-like,74,20 in,Stage-II-like,0.12353923205342238
+moisture_20in,stage-I-like,8,20 in,Stage-I-like,0.01335559265442404
+moisture_20in,early-transient-heavy,508,20 in,Early transient,0.8480801335559266
+moisture_20in,mixed_or_uncertain,9,20 in,Mixed/uncertain,0.015025041736227046

@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code or derived data, please cite the associated manuscript."
+title: "Localized segmented soil-moisture recession curves from rainfall-validated drydown events across a monitoring network"
+authors:
+  - family-names: Zhang
+    given-names: Chi
+  - family-names: Guzman
+    given-names: Sandra
+  - family-names: Judge
+    given-names: Jasmeet
+  - family-names: Zhuang
+    given-names: Yilin
+  - family-names: Zhao
+    given-names: Chang
+  - family-names: Yu
+    given-names: Ziwen
+date-released: "2026-06-05"
+version: "0.1.0"
+repository-code: "https://github.com/garyzhang332/smde-csr-jhydrol"

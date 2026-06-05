@@ -1,0 +1,50 @@
+{
+  "main_subset": "clean_stageII_48h",
+  "subsets": [
+    "all_events",
+    "clean_48h",
+    "clean_stageII_48h",
+    "clean_stageII_48h_no405",
+    "clean_stageII_48h_site_balanced"
+  ],
+  "segments": [
+    "early_0_3h",
+    "post3_mid_storage",
+    "post3_late_storage"
+  ],
+  "layers": [
+    "moisture_12in",
+    "moisture_16in",
+    "moisture_20in",
+    "moisture_4in",
+    "moisture_8in"
+  ],
+  "curves": 170280,
+  "aligned_points": 490522,
+  "prediction_points": 490522,
+  "layer_metric_rows": 25,
+  "segment_metric_rows": 71,
+  "local_segment_metric_rows": 774,
+  "local_summary_rows": 71,
+  "outputs": [
+    "fig_segmented_csr_curve_distance_to_main.png",
+    "fig_segmented_csr_location_layer_rmse_heatmaps.png",
+    "fig_segmented_csr_main_primary_layers.png",
+    "fig_segmented_csr_main_segment_metrics.png",
+    "fig_segmented_csr_sensitivity_primary_layers.png",
+    "segmented_csr_aligned_points.parquet",
+    "segmented_csr_binned_points.csv",
+    "segmented_csr_curve_distance_summary.csv",
+    "segmented_csr_curve_distance_to_main.csv",
+    "segmented_csr_curves.csv",
+    "segmented_csr_key_findings.md",
+    "segmented_csr_layer_metrics.csv",
+    "segmented_csr_local_segment_metrics.csv",
+    "segmented_csr_local_summary_by_layer_segment.csv",
+    "segmented_csr_manifest.json",
+    "segmented_csr_predictions.parquet",
+    "segmented_csr_raw_event_points.parquet",
+    "segmented_csr_segment_metrics.csv",
+    "segmented_csr_subset_counts.csv"
+  ]
+}

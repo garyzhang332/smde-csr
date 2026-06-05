@@ -1,0 +1,30 @@
+{
+  "events": 7147,
+  "loss_points": 201018,
+  "sites": 41,
+  "layers": [
+    "moisture_12in",
+    "moisture_16in",
+    "moisture_20in",
+    "moisture_4in",
+    "moisture_8in"
+  ],
+  "start": "2023-01-01 00:00:00",
+  "end": "2025-12-31 11:30:00",
+  "outputs": [
+    "fig_full_detection_audit.png",
+    "fig_full_regime_composition.png",
+    "fig_full_site_layer_heatmaps.png",
+    "full_smde_analysis_manifest.json",
+    "full_smde_audit_class_counts.csv",
+    "full_smde_binned_loss_by_layer_regime.csv",
+    "full_smde_demand_regime_summary.csv",
+    "full_smde_event_audit.csv",
+    "full_smde_loss_points.parquet",
+    "full_smde_regime_counts.csv",
+    "full_smde_summary_by_layer.csv",
+    "full_smde_summary_by_site_layer.csv",
+    "full_smde_summary_by_year_layer.csv",
+    "processing_status_by_site.csv"
+  ]
+}

@@ -1,0 +1,781 @@
+csr_x_h,moisture_mm,n_points,q25_mm,q75_mm,subset,site_id,layer,segment,segment_label,coord_mode
+0.125,15.82928,2,15.819120000000002,15.83944,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+0.5,15.6972,3,15.65656,15.71752,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+0.9141483516483512,15.51432,7,15.4686,15.68196,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+1.258928571428572,15.26032,7,15.10284,15.33144,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+1.5732813382269912,15.0368,8,14.95044,15.11808,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+2.004464285714286,14.67104,10,14.39418,14.81582,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+2.300869722065374,14.49324,8,14.38148,14.68882,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+2.6641483516483517,14.18336,13,14.09192,14.31544,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+3.043650793650793,14.0208,9,13.95984,14.05128,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+3.3384740259740275,13.77696,9,13.74648,13.88872,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+3.741071428571429,13.594080000000002,7,13.51788,13.73632,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+4.0853174603174605,13.27912,4,13.19022,13.46454,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+4.376984126984127,13.18768,3,13.06068,13.517880000000002,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+4.741071428571429,12.98448,3,12.88796,13.02512,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+5.116071428571429,12.60856,2,12.58316,12.633960000000002,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+5.491071428571429,12.46632,1,12.46632,12.46632,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+5.866071428571429,13.4874,2,13.48486,13.48994,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+6.241071428571429,13.43152,1,13.43152,13.43152,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+6.616071428571429,13.34516,2,13.32738,13.36294,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+6.991071428571429,13.22832,1,13.22832,13.22832,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+7.241071428571429,13.1572,1,13.1572,13.1572,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+7.616071428571429,13.05052,2,13.02258,13.07846,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+7.991071428571429,12.94384,1,12.94384,12.94384,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+8.366071428571429,12.81684,2,12.79906,12.83462,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+8.741071428571429,13.44168,1,13.44168,13.44168,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+9.11607142857143,13.34516,2,13.3223,13.36802,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+9.49107142857143,13.18768,1,13.18768,13.18768,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+9.74107142857143,13.07592,1,13.07592,13.07592,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+10.11607142857143,12.89304,2,12.862560000000002,12.92352,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+10.49107142857143,12.68984,1,12.68984,12.68984,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+10.86607142857143,12.50696,2,12.4714,12.54252,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+11.24107142857143,12.31392,1,12.31392,12.31392,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+11.49107142857143,12.192,1,12.192,12.192,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+11.86607142857143,13.21816,2,13.208,13.22832,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+12.24107142857143,13.1064,1,13.1064,13.1064,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+12.61607142857143,12.943840000000002,2,12.91336,12.97432,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+12.99107142857143,12.750800000000002,1,12.750800000000002,12.750800000000002,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+13.36607142857143,12.573,2,12.53998,12.60602,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+13.74107142857143,12.3952,1,12.3952,12.3952,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+13.99107142857143,12.28344,1,12.28344,12.28344,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+14.36607142857143,12.11072,2,12.08532,12.136120000000002,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+14.74107142857143,13.02512,1,13.02512,13.02512,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+15.11607142857143,12.96924,2,12.95146,12.98702,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+15.49107142857143,12.86256,1,12.86256,12.86256,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+15.86607142857143,12.77112,2,12.75588,12.78636,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+16.24107142857143,12.66952,1,12.66952,12.66952,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+16.49107142857143,12.60856,1,12.60856,12.60856,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+16.86607142857143,12.50188,2,12.4841,12.51966,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+17.24107142857143,12.405360000000002,1,12.405360000000002,12.405360000000002,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+17.61607142857143,12.45108,2,12.38758,12.514580000000002,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+17.99107142857143,12.52728,1,12.52728,12.52728,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+18.36607142857143,12.35964,2,12.33678,12.3825,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+18.74107142857143,12.192,1,12.192,12.192,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+18.99107142857143,12.0904,1,12.0904,12.0904,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+19.36607142857143,11.93292,2,11.91006,11.95578,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+19.74107142857143,11.77544,1,11.77544,11.77544,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+20.11607142857143,11.6586,2,11.64082,11.67638,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+20.49107142857143,11.57224,1,11.57224,11.57224,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+20.74107142857143,11.87704,1,11.87704,11.87704,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+21.11607142857143,11.8618,2,11.85926,11.86434,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+21.49107142857143,11.84656,1,11.84656,11.84656,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+21.86607142857143,11.826240000000002,2,11.82116,11.831320000000002,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+22.24107142857143,11.79576,1,11.79576,11.79576,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+22.61607142857143,11.79576,2,11.79576,11.79576,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+22.99107142857143,11.74496,1,11.74496,11.74496,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+23.24107142857143,11.734800000000002,1,11.734800000000002,11.734800000000002,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+23.61607142857143,11.62304,2,11.57224,11.673839999999998,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+23.99107142857143,11.50112,1,11.50112,11.50112,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+24.36607142857143,11.46048,2,11.4554,11.46556,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+24.74107142857143,11.43,1,11.43,11.43,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+25.11607142857143,11.41984,2,11.41984,11.41984,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+25.49107142857143,11.39952,1,11.39952,11.39952,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+25.74107142857143,11.3792,1,11.3792,11.3792,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+26.11607142857143,11.34872,2,11.34364,11.3538,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+26.49107142857143,11.30808,1,11.30808,11.30808,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+26.86607142857143,11.47572,2,11.47318,11.47826,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+27.24107142857143,11.43,1,11.43,11.43,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+27.61607142857143,11.39952,2,11.39444,11.4046,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+27.99107142857143,11.34872,1,11.34872,11.34872,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+28.24107142857143,11.34872,1,11.34872,11.34872,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+28.61607142857143,11.26744,2,11.2522,11.28268,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+28.99107142857143,11.18616,1,11.18616,11.18616,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+29.36607142857143,11.0744,2,11.05916,11.08964,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+29.74107142857143,11.14552,1,11.14552,11.14552,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+29.99107142857143,11.04392,1,11.04392,11.04392,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+30.49107142857143,10.30224,3,9.76376,10.47496,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+30.750686813186817,9.6266,2,9.42594,9.82726,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+31.08198051948052,9.20496,5,9.1948,9.61136,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+31.500686813186817,9.13892,4,9.0805,9.25068,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+31.82402597402597,9.15924,6,9.07288,9.19226,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+32.25068681318682,9.02716,6,9.00684,9.03986,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+32.53818681318681,8.991600000000002,4,8.95096,9.05764,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+32.91152597402598,9.04748,8,8.97128,9.474200000000002,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+33.28818681318681,9.00684,4,8.93064,9.41832,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+33.57402597402597,9.68756,4,8.89,10.46734,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+33.91152597402598,8.83412,4,8.770620000000001,9.27354,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+34.316071428571426,10.40384,3,9.54532,10.414,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+34.653571428571425,9.4996,2,9.06272,9.93648,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+34.99107142857143,10.34288,1,10.34288,10.34288,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+35.36607142857143,10.287,2,10.27938,10.294620000000002,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+35.74107142857143,10.42416,1,10.42416,10.42416,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+36.11607142857143,10.39876,2,10.39622,10.4013,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+36.49107142857143,10.38352,1,10.38352,10.38352,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+36.86607142857143,10.36828,2,10.36574,10.370820000000002,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+37.24107142857143,10.34288,1,10.34288,10.34288,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+37.49107142857143,10.30224,1,10.30224,10.30224,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+37.86607142857143,10.29208,2,10.287,10.297160000000002,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+38.24107142857143,10.25144,1,10.25144,10.25144,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+38.61607142857143,9.98728,2,9.87044,10.10412,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+38.99107142857143,9.74344,1,9.74344,9.74344,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+39.24107142857143,9.74344,1,9.74344,9.74344,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+39.61607142857143,9.73328,2,9.7282,9.73836,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+39.99107142857143,9.702800000000002,1,9.702800000000002,9.702800000000002,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+40.36607142857143,9.66724,2,9.6647,9.66978,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+40.74107142857143,9.62152,1,9.62152,9.62152,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+41.11607142857143,9.5758,2,9.57326,9.57834,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+41.49107142857143,9.51992,1,9.51992,9.51992,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+41.74107142857143,9.62152,1,9.62152,9.62152,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+42.11607142857143,9.61136,2,9.61136,9.61136,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+42.49107142857143,9.6012,1,9.6012,9.6012,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+42.86607142857143,9.59104,2,9.58596,9.59612,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+43.24107142857143,9.56056,1,9.56056,9.56056,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+43.61607142857143,9.54024,2,9.53516,9.54532,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+43.99107142857143,9.4996,1,9.4996,9.4996,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+44.24107142857143,9.46912,1,9.46912,9.46912,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+44.61607142857143,9.46912,2,9.4488,9.48944,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+44.99107142857143,9.4996,1,9.4996,9.4996,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+45.36607142857143,9.49452,2,9.49198,9.49706,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+45.74107142857143,9.47928,1,9.47928,9.47928,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+46.11607142857143,9.46912,2,9.46912,9.46912,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+46.49107142857143,9.45896,1,9.45896,9.45896,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+46.74107142857143,9.4488,1,9.4488,9.4488,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+47.11607142857143,9.43356,2,9.431019999999998,9.4361,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+47.49107142857143,9.398,1,9.398,9.398,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+47.86607142857143,9.50976,2,9.50976,9.50976,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+48.24107142857143,9.48944,1,9.48944,9.48944,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+48.49107142857143,9.48944,1,9.48944,9.48944,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+48.86607142857143,9.47928,2,9.4742,9.48436,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+49.24107142857143,9.45896,1,9.45896,9.45896,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+49.61607142857143,9.4488,2,9.44372,9.453880000000002,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+49.99107142857143,9.42848,1,9.42848,9.42848,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+50.36607142857143,9.38784,2,9.377680000000002,9.398,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+50.74107142857143,9.40816,1,9.40816,9.40816,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+50.99107142857143,9.40816,1,9.40816,9.40816,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+51.36607142857143,9.38784,2,9.38784,9.38784,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+51.74107142857143,9.38784,1,9.38784,9.38784,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+52.11607142857143,9.38784,2,9.38784,9.38784,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+52.49107142857143,9.38784,1,9.38784,9.38784,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+52.86607142857143,9.3726,2,9.37006,9.37514,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+53.24107142857143,9.357360000000002,1,9.357360000000002,9.357360000000002,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+53.49107142857143,9.3472,1,9.3472,9.3472,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+53.86607142857143,8.6614,2,8.658859999999999,8.66394,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+54.24107142857143,8.636,1,8.636,8.636,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+54.61607142857143,8.62584,2,8.62076,8.63092,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+54.99107142857143,8.585199999999999,1,8.585199999999999,8.585199999999999,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+55.36607142857143,8.51408,2,8.50392,8.524239999999999,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+55.74107142857143,8.442960000000001,1,8.442960000000001,8.442960000000001,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+55.99107142857143,8.37184,1,8.37184,8.37184,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+56.36607142857143,8.27024,2,8.24992,8.29056,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+56.74107142857143,8.64616,1,8.64616,8.64616,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+57.11607142857143,8.64616,2,8.64616,8.64616,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+57.49107142857143,8.64616,1,8.64616,8.64616,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+57.74107142857143,8.64616,1,8.64616,8.64616,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+58.11607142857143,8.641079999999999,2,8.638539999999999,8.64362,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+58.49107142857143,8.636,1,8.636,8.636,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+58.86607142857143,8.63092,2,8.62838,8.63346,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+59.24107142857143,8.595360000000001,1,8.595360000000001,8.595360000000001,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+59.61607142857143,8.580119999999999,2,8.57758,8.582659999999999,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+59.99107142857143,8.57504,1,8.57504,8.57504,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+60.24107142857143,8.56488,1,8.56488,8.56488,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+60.61607142857143,8.54456,2,8.53948,8.54964,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+60.99107142857143,8.49376,1,8.49376,8.49376,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+61.36607142857143,8.44296,2,8.427719999999999,8.4582,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+61.74107142857143,8.36168,1,8.36168,8.36168,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+62.11607142857143,8.26008,2,8.23976,8.2804,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+62.49107142857143,8.13816,1,8.13816,8.13816,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+62.74107142857143,8.45312,1,8.45312,8.45312,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+63.11607142857143,8.45312,2,8.45312,8.45312,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+63.49107142857143,8.42264,1,8.42264,8.42264,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+63.86607142857143,8.412479999999999,2,8.407399999999999,8.41756,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+64.24107142857143,8.382,1,8.382,8.382,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+64.61607142857143,8.346440000000001,2,8.343900000000001,8.348980000000001,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+64.99107142857143,8.31088,1,8.31088,8.31088,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+65.24107142857143,8.270240000000001,1,8.270240000000001,8.270240000000001,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+65.61607142857143,8.111744000000002,2,8.057896000000001,8.165592,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+65.99107142857143,7.991855999999999,1,7.991855999999999,7.991855999999999,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+66.36607142857143,7.96544,2,7.956296,7.974584,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+66.74107142857143,7.927848,1,7.927848,7.927848,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+66.99107142857143,7.883144000000001,1,7.883144000000001,7.883144000000001,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+67.36607142857143,7.819644,2,7.803642,7.835646,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+67.74107142857143,7.724648,1,7.724648,7.724648,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+68.11607142857143,7.606792,2,7.586472,7.627112,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+68.49107142857143,7.477760000000001,1,7.477760000000001,7.477760000000001,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+68.86607142857143,7.97052,2,7.968488,7.972552,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+69.24107142857143,7.947152,1,7.947152,7.947152,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+69.49107142857143,7.9248,1,7.9248,7.9248,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+69.86607142857143,7.896352,2,7.890764000000001,7.90194,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+70.24107142857143,7.829296,1,7.829296,7.829296,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+70.61607142857143,7.763256,2,7.751063999999999,7.775448000000001,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+70.99107142857143,7.698232,1,7.698232,7.698232,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+71.36607142857143,7.596124,2,7.581138,7.61111,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+71.74107142857143,7.794752,1,7.794752,7.794752,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+71.99107142857143,7.778496,1,7.778496,7.778496,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+72.36607142857143,7.766304,2,7.766304,7.766304,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+72.74107142857143,7.756144000000001,1,7.756144000000001,7.756144000000001,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+73.11607142857143,7.738364000000001,2,7.736586,7.740142,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+73.49107142857143,7.734808,1,7.734808,7.734808,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+73.86607142857143,7.7089,2,7.708138,7.709662000000001,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+74.24107142857143,7.691120000000001,1,7.691120000000001,7.691120000000001,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+74.49107142857143,7.666736,1,7.666736,7.666736,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+74.86607142857143,7.713471999999999,2,7.710424,7.71652,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+75.24107142857143,7.700264,1,7.700264,7.700264,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+75.61607142857143,7.68858,2,7.686294,7.690866,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+75.99107142857143,7.678928,1,7.678928,7.678928,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+76.24107142857143,7.659624,1,7.659624,7.659624,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+76.61607142857143,7.621016,2,7.61238,7.629652,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+76.99107142857143,7.587488,1,7.587488,7.587488,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+77.36607142857143,7.523988,2,7.515098,7.532878,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+77.74107142857143,7.63016,1,7.63016,7.63016,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+78.11607142857143,7.610348,2,7.60857,7.612126,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+78.49107142857143,7.59968,1,7.59968,7.59968,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+78.74107142857143,7.592568,1,7.592568,7.592568,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+79.11607142857143,7.527544000000001,2,7.514336,7.540752,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+79.49107142857143,7.474712,1,7.474712,7.474712,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+79.86607142857143,7.390892,2,7.378446,7.403338,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+80.24107142857143,7.333488,1,7.333488,7.333488,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+80.61607142857143,7.220712,2,7.188708,7.252715999999999,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+80.99107142857143,7.140447999999999,1,7.140447999999999,7.140447999999999,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+81.24107142857143,7.135368,1,7.135368,7.135368,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+81.61607142857143,7.103872,2,7.095236,7.112508,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+81.99107142857143,7.06628,1,7.06628,7.06628,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+82.36607142857143,7.021576,2,7.016496,7.026656,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+82.74107142857143,6.945376,1,6.945376,6.945376,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+83.11607142857143,6.873748,2,6.857238,6.890258,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+83.49107142857143,6.758432,1,6.758432,6.758432,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+83.74107142857143,7.135368,1,7.135368,7.135368,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+84.11607142857143,7.130796,2,7.129526,7.132066,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+84.49107142857143,7.128256,1,7.128256,7.128256,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+84.86607142857143,7.098792,2,7.09422,7.103364,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+85.24107142857143,7.07136,1,7.07136,7.07136,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+85.49107142857143,7.052056,1,7.052056,7.052056,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+85.86607142857143,7.005827999999999,2,6.99389,7.017766,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+86.24107142857143,6.94944,1,6.94944,6.94944,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+86.61607142857143,6.814312,2,6.776212,6.852412,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+86.99107142857143,6.706616,1,6.706616,6.706616,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+87.36607142857143,6.65988,2,6.65226,6.6675,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+87.74107142857143,6.5999360000000005,1,6.5999360000000005,6.5999360000000005,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+87.99107142857143,6.556248,1,6.556248,6.556248,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+88.36607142857143,6.45922,2,6.44017,6.478269999999999,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+88.74107142857143,6.348984,1,6.348984,6.348984,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+89.11607142857143,6.287008,2,6.278372,6.295644,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+89.49107142857143,6.220968,1,6.220968,6.220968,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+89.86607142857143,6.468872000000001,2,6.46684,6.470904000000001,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+90.24107142857144,6.449568,1,6.449568,6.449568,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+90.49107142857144,6.449568,1,6.449568,6.449568,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+90.86607142857144,6.423152,2,6.416548000000001,6.429755999999999,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+91.24107142857144,6.3886080000000005,1,6.3886080000000005,6.3886080000000005,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+91.61607142857144,6.33222,2,6.320282,6.344158,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+91.99107142857144,6.269736,1,6.269736,6.269736,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+92.36607142857144,6.187948,2,6.172454,6.203442,clean_stageII_48h,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+0.125,11.64844,6,8.466073999999999,13.78458,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+0.5,11.5824,3,9.399524,12.98956,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+0.875,11.49096,6,8.179815999999999,13.5509,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+1.25,12.77112,4,10.267696,14.16812,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+1.6294642857142854,12.66444,8,10.16762,14.05636,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+2.0044642857142856,13.85824,4,13.17752,13.91158,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+2.349999999999998,13.79728,7,12.45108,13.81252,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+2.75,13.73632,5,13.69568,13.73632,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+3.0044642857142856,13.64996,4,12.95654,13.67536,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+3.349999999999998,13.52296,7,12.18692,13.56868,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+3.75,13.47216,5,13.45184,13.54328,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+4.099999999999998,13.34008,7,11.99896,13.39088,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+4.5,13.27912,5,13.2588,13.35024,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+4.849999999999998,13.21816,5,13.17752,13.21816,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+5.254464285714286,13.11656,4,13.11148,13.13688,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+5.508928571428571,13.06576,3,13.05052,13.07084,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+5.849999999999998,12.97432,5,12.96416,13.01496,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+6.254464285714286,12.89304,4,12.84986,12.92098,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+6.599999999999998,12.8524,5,12.82192,12.87272,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+7.004464285714286,12.7,4,12.5984,12.78636,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+7.314772727272729,12.7508,8,12.71016,13.33754,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+7.729166666666666,12.93368,6,12.63904,13.2207,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+8.008928571428571,12.9032,5,12.65936,13.03528,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+8.458333333333332,12.63904,7,12.55268,12.87272,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+8.758928571428571,12.58824,5,12.56792,12.68984,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+9.208333333333332,12.4968,7,12.3952,12.6238,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+9.504464285714285,12.43076,4,12.349480000000002,12.49934,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+9.868939393939396,12.4206,6,12.35456,12.46378,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+10.26477272727273,12.40028,4,12.3317,12.49172,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+10.577272727272724,12.33932,6,12.18692,12.3698,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+10.958333333333332,12.2936,5,12.2428,12.30376,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+11.26477272727273,12.22248,6,12.06754,12.2936,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+11.70625,12.20216,7,12.10564,12.2174,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+11.979166666666666,12.07008,6,12.0142,12.16406,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+12.374999999999988,11.97864,9,11.907520000000002,12.11072,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+12.75,11.8872,7,11.81608,12.0396,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+13.02954545454546,11.92784,9,11.85672,12.04976,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+13.479166666666666,11.81608,6,11.755120000000002,11.945619999999998,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+13.762926136363632,11.82116,8,11.59764,11.91514,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+14.138020833333329,11.81608,11,11.678920000000002,11.8872,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+14.505113636363632,11.78052,8,11.4554,11.7983,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+14.888020833333329,11.684,9,11.60272,11.74496,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+15.255113636363632,11.557,6,11.483339999999998,11.6078,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+15.638020833333329,11.44016,7,11.30808,11.6078,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+15.984280303030298,11.40968,2,11.26236,11.557,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+16.260227272727263,11.69416,3,11.38428,11.69416,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+16.609280303030296,11.3538,2,11.1887,11.5189,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+16.958333333333332,11.684,1,11.684,11.684,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+17.333333333333332,11.64336,2,11.6332,11.65352,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+17.708333333333332,11.62304,1,11.62304,11.62304,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+18.08333333333333,11.6078,2,11.60018,11.61542,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+18.45833333333333,11.57224,1,11.57224,11.57224,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+18.83333333333333,11.53668,2,11.53414,11.53922,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+19.20833333333333,11.52144,1,11.52144,11.52144,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+19.58333333333333,11.50112,2,11.49604,11.506200000000002,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+19.95833333333333,11.46048,1,11.46048,11.46048,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+20.20833333333333,11.46048,1,11.46048,11.46048,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+20.58333333333333,11.41984,2,11.409680000000002,11.43,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+20.95833333333333,11.3792,1,11.3792,11.3792,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+21.33333333333333,11.35888,2,11.3538,11.36396,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+21.70833333333333,11.31824,1,11.31824,11.31824,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+22.08333333333333,11.303,2,11.30046,11.30554,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+22.45833333333333,11.2776,1,11.2776,11.2776,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+22.70833333333333,11.26744,1,11.26744,11.26744,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+23.08333333333333,11.23188,2,11.22426,11.2395,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+23.45833333333333,11.20648,1,11.20648,11.20648,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+23.83333333333333,11.19632,2,11.19632,11.19632,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+24.20833333333333,11.176,1,11.176,11.176,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+24.58333333333333,11.17092,2,11.16838,11.17346,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+24.95833333333333,11.13536,1,11.13536,11.13536,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+25.20833333333333,11.1252,1,11.1252,11.1252,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+25.58333333333333,11.05916,2,11.05154,11.06678,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+25.95833333333333,11.00328,1,11.00328,11.00328,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+26.33333333333333,10.92708,2,10.91946,10.9347,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+26.70833333333333,11.562080000000002,1,11.562080000000002,11.562080000000002,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+27.08333333333333,11.5062,2,11.4935,11.5189,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+27.45833333333333,11.43,1,11.43,11.43,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+27.83333333333333,11.3538,2,11.34618,11.36142,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+28.20833333333333,11.2776,1,11.2776,11.2776,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+28.45833333333333,11.25728,1,11.25728,11.25728,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+28.83333333333333,11.27252,2,11.2649,11.28014,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+29.20833333333333,11.18616,1,11.18616,11.18616,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+29.58333333333333,11.1252,2,11.11504,11.13536,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+29.95833333333333,11.0744,1,11.0744,11.0744,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+30.33333333333333,10.9982,2,10.99058,11.00582,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+30.70833333333333,10.922,1,10.922,10.922,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+30.95833333333333,10.8712,1,10.8712,10.8712,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+31.33333333333333,10.72896,2,10.70356,10.75436,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+31.70833333333333,10.58672,1,10.58672,10.58672,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+32.08333333333333,10.39368,2,10.3632,10.42416,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+32.45833333333333,10.24128,1,10.24128,10.24128,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+32.83333333333333,10.06348,2,10.03554,10.09142,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+33.20833333333333,9.88568,1,9.88568,9.88568,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+33.45833333333333,9.76376,1,9.76376,9.76376,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+33.83333333333333,9.57072,2,9.54024,9.6012,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+34.20833333333333,9.37768,1,9.37768,9.37768,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+34.58333333333333,10.96264,2,10.9474,10.97788,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+34.95833333333333,10.8712,1,10.8712,10.8712,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+35.33333333333333,10.77976,2,10.76452,10.795,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+35.70833333333333,10.65784,1,10.65784,10.65784,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+35.95833333333333,10.59688,1,10.59688,10.59688,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+36.33333333333333,10.46988,2,10.44702,10.49274,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+36.70833333333333,10.373360000000002,1,10.373360000000002,10.373360000000002,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+37.08333333333333,10.25144,2,10.2362,10.26668,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+37.45833333333333,10.17016,1,10.17016,10.17016,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+37.83333333333333,10.0584,2,10.04316,10.07364,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+38.20833333333333,10.2108,1,10.2108,10.2108,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+38.58333333333333,10.1346,2,10.11682,10.15238,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+38.95833333333333,10.0584,1,10.0584,10.0584,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+39.20833333333333,9.99744,1,9.99744,9.99744,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+39.58333333333333,9.91616,2,9.90092,9.9314,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+39.95833333333333,9.84504,1,9.84504,9.84504,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+40.33333333333333,9.76376,2,9.7536,9.77392,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+40.70833333333333,9.66216,1,9.66216,9.66216,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+41.08333333333333,9.54532,2,9.52754,9.5631,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+41.45833333333333,9.43864,1,9.43864,9.43864,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+41.70833333333333,9.3472,1,9.3472,9.3472,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+42.08333333333333,9.220199999999998,2,9.19734,9.24306,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+42.45833333333333,9.08304,1,9.08304,9.08304,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+42.83333333333333,8.97128,2,8.956040000000002,8.986519999999999,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+43.20833333333333,10.2108,1,10.2108,10.2108,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+43.58333333333333,10.11936,2,10.10412,10.1346,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+43.95833333333333,10.0584,1,10.0584,10.0584,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+44.20833333333333,9.98728,1,9.98728,9.98728,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+44.58333333333333,9.89584,2,9.88568,9.906,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+44.95833333333333,9.78408,1,9.78408,9.78408,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+45.33333333333333,9.646919999999998,2,9.624059999999998,9.66978,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+45.70833333333333,9.45896,1,9.45896,9.45896,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+46.08333333333333,9.28624,2,9.25576,9.31672,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+46.45833333333333,9.0932,1,9.0932,9.0932,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+46.83333333333333,8.93064,2,8.9154,8.94588,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+47.20833333333333,8.84936,1,8.84936,8.84936,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+47.45833333333333,9.47928,1,9.47928,9.47928,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+47.83333333333333,9.40308,2,9.39038,9.415779999999998,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+48.20833333333333,9.33704,1,9.33704,9.33704,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+48.58333333333333,9.23036,2,9.21258,9.24814,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+48.95833333333333,9.13384,1,9.13384,9.13384,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+49.33333333333333,9.03732,2,9.01954,9.0551,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+49.70833333333333,8.92048,1,8.92048,8.92048,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+49.95833333333333,8.859520000000002,1,8.859520000000002,8.859520000000002,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+50.33333333333333,8.768080000000001,2,8.75284,8.78332,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+50.70833333333333,8.65632,1,8.65632,8.65632,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+51.08333333333333,8.56488,2,8.54456,8.5852,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+51.45833333333333,8.463280000000001,1,8.463280000000001,8.463280000000001,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+51.83333333333333,8.366760000000001,2,8.35406,8.379460000000002,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+52.20833333333333,9.357360000000002,1,9.357360000000002,9.357360000000002,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+52.45833333333333,9.30656,1,9.30656,9.30656,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+52.83333333333333,9.18972,2,9.16686,9.21258,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+53.20833333333333,9.06272,1,9.06272,9.06272,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+53.58333333333333,8.920480000000001,2,8.89508,8.94588,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+53.95833333333333,8.768080000000001,1,8.768080000000001,8.768080000000001,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+54.33333333333333,8.63092,2,8.60298,8.65886,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+54.70833333333333,8.463280000000001,1,8.463280000000001,8.463280000000001,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+54.95833333333333,8.341360000000002,1,8.341360000000002,8.341360000000002,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+55.33333333333333,8.157464000000001,2,8.126476,8.188452,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+55.70833333333333,8.004048000000001,1,8.004048000000001,8.004048000000001,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+56.08333333333333,7.83844,2,7.808467999999999,7.868412,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+56.45833333333333,9.357360000000002,1,9.357360000000002,9.357360000000002,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+56.83333333333333,9.30656,2,9.2964,9.31672,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+57.20833333333333,9.2456,1,9.2456,9.2456,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+57.58333333333333,9.12876,2,9.11098,9.14654,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+57.95833333333333,9.01192,1,9.01192,9.01192,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+58.20833333333333,8.930639999999999,1,8.930639999999999,8.930639999999999,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+58.58333333333333,8.79856,2,8.77316,8.82396,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+58.95833333333333,8.66648,1,8.66648,8.66648,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+59.33333333333333,8.498840000000001,2,8.4709,8.52678,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+59.70833333333333,8.35152,1,8.35152,8.35152,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+60.08333333333333,8.167624,2,8.136636,8.198612,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+60.47015765765788,7.983728,3,7.815580000000001,8.081264000000001,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+60.72015765765788,7.85876,3,7.740904,7.983728,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+61.18942577030812,7.615936,7,7.563612000000001,7.860284,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+61.4642454954956,7.48284,6,7.437882,7.491222,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+61.84205426356589,7.37108,9,7.319263999999999,7.435087999999999,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+62.2142454954956,7.30504,6,7.247128,7.582407999999999,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+62.55477395112136,7.369047999999999,8,7.211822,7.993888,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+62.95833333333333,7.119111999999999,7,7.042404,7.289292,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+63.24382564816736,7.047484000000001,6,6.991858000000001,7.238746000000001,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+63.640740016937,7.17042,10,6.912864,8.17245,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+63.95833333333333,6.816344,7,6.677152,7.555484000000001,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+64.3420542635659,6.872224,11,6.683248,7.989316,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+64.70726840971412,6.699504,6,6.538976,7.62508,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+65.01749363867684,7.754112,7,6.488684,8.181848,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+65.45620348609489,6.377432000000001,5,6.329680000000001,7.659624,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+65.76749363867684,7.47268,7,6.280404000000001,7.977632,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+66.20726840971412,6.722872000000001,4,6.016244,7.641336000000001,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+66.48791348600508,7.812024000000001,4,6.962902,8.3566,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+66.83333333333331,8.18896,5,7.277608000000001,8.514080000000002,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+67.20726840971412,8.45312,4,8.101584,8.6741,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+67.58333333333331,8.382,5,7.047992000000001,9.16432,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+67.95726840971412,8.32104,4,7.95147,8.54202,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+68.27083333333331,8.62076,4,7.886953999999999,9.02208,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+68.64583333333331,8.559800000000001,2,8.3693,8.750300000000001,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+68.95833333333333,8.12292,3,8.092948,8.501380000000001,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+69.33333333333331,8.70712,3,8.36422,8.763,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+69.70833333333333,7.952232,3,7.910576000000001,8.304276,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+70.08333333333331,8.49376,3,8.157972000000001,8.52932,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+70.45833333333333,7.73684,3,7.702804,8.07974,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+70.83333333333331,8.36168,3,7.974584,8.36168,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+71.20833333333333,7.525512,3,7.490968,7.923275999999999,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+71.52083333333331,7.821168,2,7.606791999999999,8.035544,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+71.83333333333331,8.048752,3,7.69112,8.098536,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+72.20833333333333,7.265416,3,7.23392,7.618476,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+72.58333333333333,8.462264,2,8.192516,8.732012,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+72.95833333333333,8.98144,1,8.98144,8.98144,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+73.33333333333333,8.85952,2,8.84428,8.87476,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+73.70833333333333,8.74776,1,8.74776,8.74776,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+74.03698501872671,8.332215999999999,2,8.175244,8.489188,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+74.36563670412009,8.47344,3,8.213852,8.509,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+74.70833333333333,7.893304,3,7.851648000000001,8.137652,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+75.11563670412009,8.768080000000001,3,8.223504,8.79856,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+75.45833333333333,7.566152,3,7.497064,8.136636,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+75.83333333333333,8.600439999999999,2,8.58266,8.618219999999999,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+76.20833333333333,8.503919999999999,1,8.503919999999999,8.503919999999999,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+76.58333333333333,8.39216,2,8.37692,8.407399999999999,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+76.95833333333333,8.30072,1,8.30072,8.30072,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+77.20833333333333,8.23976,1,8.23976,8.23976,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+77.58333333333333,8.16356,2,8.14578,8.18134,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+77.95833333333333,8.066024,1,8.066024,8.066024,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+78.33333333333333,8.028939999999999,2,8.021574,8.036306,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+78.70833333333333,7.940040000000001,1,7.940040000000001,7.940040000000001,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+79.08333333333333,7.85876,2,7.841488,7.876032,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+79.45833333333333,7.770367999999999,1,7.770367999999999,7.770367999999999,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+79.70833333333333,8.55472,1,8.55472,8.55472,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+80.08333333333333,8.41248,2,8.39216,8.4328,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+80.45833333333333,8.270240000000001,1,8.270240000000001,8.270240000000001,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+80.83333333333333,8.111236,2,8.082533999999999,8.139938,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+81.20833333333333,7.957312,1,7.957312,7.957312,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+81.58333333333333,7.523479999999999,2,7.375652,7.671308,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+81.95833333333333,7.146544,1,7.146544,7.146544,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+82.20833333333333,7.0591680000000006,1,7.0591680000000006,7.0591680000000006,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+82.58333333333333,7.003288,2,6.9834760000000005,7.0231,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+82.95833333333333,6.892544,1,6.892544,6.892544,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+83.33333333333333,6.7914520000000005,2,6.7724020000000005,6.8105020000000005,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+83.70833333333333,6.682232,1,6.682232,6.682232,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+84.08333333333333,6.822948,2,6.80847,6.837426000000001,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+84.45833333333333,6.728968,1,6.728968,6.728968,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+84.83333333333333,6.636512,2,6.623811999999999,6.649212,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+85.20833333333333,6.554215999999999,1,6.554215999999999,6.554215999999999,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+85.45833333333333,6.497319999999999,1,6.497319999999999,6.497319999999999,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+85.83333333333333,6.388608,2,6.372352,6.404864,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+86.20833333333333,6.2738,1,6.2738,6.2738,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+86.58333333333333,6.162548,2,6.144006,6.18109,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+86.95833333333333,6.028944,1,6.028944,6.028944,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+87.33333333333333,5.925312,2,5.903468,5.947156,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+87.70833333333333,5.819648,1,5.819648,5.819648,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+87.95833333333333,5.789168,1,5.789168,5.789168,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+88.33333333333333,5.677916000000001,2,5.658866000000001,5.696966000000001,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+88.70833333333333,6.650736,1,6.650736,6.650736,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+89.08333333333333,6.480556,2,6.448298,6.5128140000000005,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+89.45833333333333,6.340856,1,6.340856,6.340856,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+89.83333333333333,6.177788,2,6.146546,6.20903,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+90.20833333333331,6.001512,1,6.001512,6.001512,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+90.45833333333331,5.906008,1,5.906008,5.906008,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+90.83333333333331,5.731256,2,5.703316,5.759195999999999,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+91.20833333333331,5.579872,1,5.579872,5.579872,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+91.58333333333331,5.4391560000000005,2,5.41655,5.461762,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+91.95833333333331,6.176264,1,6.176264,6.176264,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+92.33333333333331,6.103112,2,6.089904000000001,6.11632,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+92.70833333333331,6.003544,1,6.003544,6.003544,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+93.08333333333331,5.893308,2,5.879338000000001,5.907278,clean_stageII_48h,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+0.25,10.165588,6,7.237222,13.096240000000002,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+0.875,9.928352,4,7.075678,12.79144,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+1.25,12.58824,5,6.988048,12.6492,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+1.875,12.43584,4,11.05535,12.47394,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+2.75,12.33424,3,12.33424,12.35456,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+3.1500000000000035,12.25804,4,12.2301,12.27328,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+3.75,12.16152,5,12.08024,12.16152,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+4.425000000000007,11.97356,2,11.96086,11.98626,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+4.925000000000007,11.89736,2,11.8872,11.90752,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+5.550000000000007,11.84656,3,11.8364,11.85672,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+6.175000000000007,11.79576,2,11.79576,11.79576,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+6.675000000000007,11.94816,2,11.8618,12.03452,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+7.300000000000007,11.96848,3,11.93292,12.0142,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+7.925000000000008,11.80592,2,11.78052,11.83132,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+8.425000000000008,11.64336,2,11.62812,11.6586,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+9.050000000000008,11.44016,3,11.39952,11.48588,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+9.675000000000008,11.30808,2,11.29792,11.31824,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+10.175000000000008,11.2268,2,11.21664,11.23696,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+10.800000000000008,11.16584,3,11.14552,11.17092,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+11.425000000000008,11.07948,2,11.07694,11.08202,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+11.925000000000008,11.0236,2,11.01344,11.03376,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+12.550000000000008,10.98296,3,10.96264,10.99312,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+13.175000000000008,11.79576,2,11.77544,11.81608,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+13.675000000000008,11.6332,2,11.61288,11.65352,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+14.175000000000008,11.4808,2,11.46556,11.49604,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+14.800000000000008,11.26744,3,11.23696,11.31316,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+15.425000000000008,11.3538,2,11.249660000000002,11.45794,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+15.925000000000008,11.47572,2,11.46302,11.48842,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+16.550000000000008,11.31824,3,11.2776,11.3538,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+17.175000000000008,11.10488,2,11.07948,11.13028,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+17.675000000000008,10.94232,2,10.922,10.96264,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+18.300000000000008,10.75944,3,10.72896,10.795,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+18.925000000000008,10.61212,2,10.59942,10.62482,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+19.425000000000008,10.525760000000002,2,10.51052,10.541,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+20.050000000000008,10.40384,3,10.38352,10.42416,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+20.675000000000008,10.30732,2,10.2997,10.31494,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+21.175000000000008,10.25652,2,10.2489,10.26414,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+21.800000000000008,11.4808,3,10.8458,11.51128,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+22.425000000000008,11.4046,2,11.3919,11.4173,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+22.925000000000008,11.28776,2,11.27252,11.303,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+23.550000000000008,11.14552,3,11.11504,11.18108,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+24.175000000000008,10.99312,2,10.97788,11.00836,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+24.675000000000008,10.88644,2,10.87882,10.89406,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+25.300000000000008,10.78992,3,10.7696,10.81024,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+25.925000000000008,10.69848,2,10.68832,10.70864,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+26.425000000000008,10.62228,2,10.61466,10.6299,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+27.050000000000008,10.49528,3,10.46988,10.520680000000002,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+27.675000000000008,10.3632,2,10.34796,10.37844,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+28.175000000000008,10.27684,2,10.26922,10.28446,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+28.800000000000008,10.19048,3,10.180319999999998,10.20572,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+29.425000000000008,10.16,2,10.15492,10.16508,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+29.925000000000008,10.75944,2,10.4394,11.07948,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+30.550000000000008,11.29792,3,11.27252,11.31824,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+31.175000000000008,11.18616,2,11.18108,11.19124,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+31.675000000000008,11.13536,2,11.13028,11.140440000000002,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+32.30000000000001,11.08456,3,11.06424,11.08456,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+32.92500000000001,11.023599999999998,2,11.01852,11.02868,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+33.42500000000001,10.982960000000002,2,10.97788,10.988040000000002,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+34.05000000000001,10.95248,3,10.9474,10.96264,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+34.67500000000001,10.90676,2,10.90422,10.9093,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+35.17500000000001,10.87628,2,10.87374,10.87882,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+35.80000000000001,10.85088,3,10.8458,10.85088,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+36.42500000000001,10.8204,2,10.81532,10.82548,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+36.92500000000001,10.77976,2,10.77976,10.77976,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+37.55000000000001,10.75944,3,10.74928,11.01344,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+38.17500000000001,11.16584,2,11.15568,11.176,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+38.67500000000001,11.05916,2,11.04646,11.07186,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+39.30000000000001,10.922,3,10.8966,10.947400000000002,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+39.92500000000001,10.84072,2,10.83564,10.8458,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+40.42500000000001,10.78992,2,10.78484,10.795000000000002,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+41.05000000000001,10.73912,3,10.73404,10.74928,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+41.67500000000001,10.718800000000002,2,10.718800000000002,10.718800000000002,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+42.17500000000001,10.94232,2,10.81532,11.06932,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+42.80000000000001,11.14552,3,11.1252,11.16076,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+43.42500000000001,11.05916,2,11.04646,11.07186,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+43.92500000000001,10.99312,2,10.98296,11.00328,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+44.55000000000001,10.922,3,10.91692,10.94232,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+45.17500000000001,10.8712,2,10.86612,10.87628,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+45.67500000000001,10.8204,2,10.81532,10.82548,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+46.30000000000001,10.77976,3,10.75944,10.77976,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+46.92500000000001,10.93216,2,10.91692,10.947399999999998,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+47.42500000000001,10.81532,2,10.8077,10.82294,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+47.92500000000001,10.74928,2,10.73912,10.75944,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+48.55000000000001,10.668,3,10.65276,10.68832,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+49.17500000000001,10.59688,2,10.5918,10.60196,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+49.67500000000001,10.561320000000002,2,10.5537,10.56894,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+50.30000000000001,10.50544,3,10.50036,10.5156,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+50.92500000000001,10.47496,2,10.46988,10.48004,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+51.42500000000001,10.44448,2,10.4394,10.44956,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+52.05000000000001,10.42416,3,10.414,10.42416,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+52.67500000000001,10.3886,2,10.38098,10.39622,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+53.17500000000001,10.36828,2,10.36574,10.370820000000002,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+53.80000000000001,10.7696,3,10.55116,10.81532,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+54.42500000000001,10.6426,2,10.61974,10.66546,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+54.92500000000001,10.525760000000002,2,10.51052,10.541,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+55.55000000000001,10.3124,3,10.28192,10.3632,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+56.17500000000001,10.20572,2,10.18794,10.2235,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+56.67500000000001,10.12952,2,10.11936,10.13968,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+57.30000000000001,10.04824,3,10.01776,10.07364,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+57.92500000000001,9.8806,2,9.86282,9.89838,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+58.42500000000001,9.758679999999998,2,9.75106,9.7663,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+59.05000000000001,9.68248,3,9.66216,9.69264,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+59.67500000000001,9.56056,2,9.5504,9.57072,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+60.17500000000001,9.530080000000002,2,9.530080000000002,9.530080000000002,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+60.80000000000001,10.58672,3,10.52068,10.63244,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+61.42500000000001,10.31748,2,10.29462,10.34034,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+61.92500000000001,10.14476,2,10.12698,10.16254,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+62.55000000000001,9.99744,3,9.97204,10.02284,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+63.17500000000001,9.86536,2,9.8552,9.87552,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+63.67500000000001,9.8044,2,9.79932,9.80948,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+64.30000000000001,9.76376,3,9.7536,10.12952,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+64.92500000000001,10.41908,2,10.40638,10.43178,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+65.42500000000001,10.3378,2,10.33018,10.34542,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+66.05000000000001,10.24128,3,10.22604,10.25652,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+66.67500000000001,10.180319999999998,2,10.17524,10.1854,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+67.17500000000001,10.139680000000002,2,10.1346,10.144760000000002,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+67.80000000000001,9.9568,3,9.9314,10.03808,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+68.42500000000001,9.81456,2,9.8044,9.82472,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+68.92500000000001,9.7282,2,9.715500000000002,9.7409,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+69.55000000000001,9.63168,3,9.61644,9.64692,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+70.17500000000001,9.55548,2,9.54786,9.5631,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+70.67500000000001,9.53008,2,9.525,9.53516,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+71.30000000000001,9.27608,3,9.23544,9.38784,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+71.92500000000001,9.0678,2,9.0551,9.0805,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+72.42500000000001,8.9408,2,8.92048,8.96112,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+73.05000000000001,8.788400000000001,3,8.763000000000002,8.8138,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+73.67500000000001,8.67664,2,8.67156,8.681720000000002,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+74.17500000000001,8.641079999999999,2,8.638539999999999,8.64362,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+74.80000000000001,8.60552,3,8.60552,8.615680000000001,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+75.42500000000001,8.84936,2,8.8392,8.85952,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+75.92500000000001,8.74776,2,8.7376,8.75792,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+76.55000000000001,8.60552,3,8.58012,8.63092,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+77.17500000000001,8.498840000000001,2,8.49122,8.50646,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+77.67500000000001,8.453120000000002,2,8.44804,8.458200000000001,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+78.30000000000001,8.412479999999999,3,8.412479999999999,8.42264,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+78.92500000000001,8.585199999999999,2,8.498839999999998,8.67156,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+79.42500000000001,8.70712,2,8.70204,8.712200000000001,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+80.05000000000001,8.64616,3,8.62584,8.66648,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+80.67500000000001,8.60552,2,8.60552,8.60552,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+81.17500000000001,8.559800000000001,2,8.54202,8.577580000000001,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+81.80000000000001,8.42264,3,8.40232,8.448039999999999,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+82.42500000000001,8.34644,2,8.338819999999998,8.35406,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+82.92500000000001,8.31088,2,8.31088,8.31088,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+83.42500000000001,8.605519999999999,2,8.59028,8.620759999999999,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+84.05000000000001,8.4836,3,8.46836,8.509,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+84.67500000000001,8.39216,2,8.382,8.40232,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+85.17500000000001,8.32104,2,8.315959999999999,8.32612,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+85.80000000000001,8.23976,3,8.23468,8.255,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+86.42500000000001,8.17372,2,8.1661,8.181339999999999,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+86.92500000000001,8.13816,2,8.13308,8.14324,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+87.55000000000001,8.078216,3,8.075676,8.089392,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+88.17500000000001,8.033511999999998,2,8.027415999999999,8.039608,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+88.67500000000001,8.00608,2,8.00354,8.00862,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+89.30000000000001,7.971536,3,7.966456000000001,7.975092,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+89.92500000000001,7.93496,2,7.931404000000001,7.938516,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+90.425,7.901432,2,7.898384,7.90448,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+91.05,7.878063999999999,3,7.869427999999999,7.88416,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+91.675,8.24992,2,8.23468,8.26516,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+92.175,8.138668,2,8.123682,8.153654,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+92.8,8.023352000000001,3,8.00608,8.044688,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+93.425,7.948168,2,7.941564,7.954772,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+93.925,7.907528,2,7.901432,7.913624,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+94.55,7.883144000000001,3,7.878064,7.885684,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+95.175,7.865871999999999,2,7.863332,7.868412,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+95.675,8.22452,2,8.20674,8.2423,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+96.3,8.083296,3,8.060944,8.110728,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+96.925,8.019796,2,8.019034,8.020558,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+97.425,8.067039999999999,2,8.052816,8.081264,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+98.05,7.922768,3,7.89432,7.960868,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+98.675,7.806436,2,7.802118,7.810754,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+99.175,7.76478,2,7.759446,7.770113999999999,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+99.8,7.80288,3,7.768844,7.831836,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+100.425,7.705344,2,7.692136,7.718552000000001,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+101.05,7.618984,3,7.598156,7.664704,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+101.55,7.55396,5,7.536688,7.638288,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+102.1326612903226,7.57682,6,7.48157,7.59968,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+102.66895161290324,7.470648,7,7.426452,7.537196,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+103.23447580645164,7.430008000000001,6,7.408672000000001,7.599171999999999,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+103.85947580645164,7.470648000000001,4,7.399274,7.548626,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+104.41895161290324,7.312152,5,7.261352,7.463536,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+105.05,7.369048,5,7.202424000000001,7.399528,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+105.60947580645164,7.246112,4,7.156196,7.337298,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+106.05,7.319263999999999,3,7.2263,7.323836,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+106.8,7.156704,3,7.10692,7.225284,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+107.425,6.927088,2,6.9088,6.945376,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+107.925,6.760464,2,6.744716,6.776211999999999,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+108.55,6.62432,3,6.602476,6.646672000000001,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+109.175,6.530848000000001,2,6.523736,6.53796,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+109.675,6.482588,2,6.479794,6.485382,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+110.3,6.472936000000001,3,6.469888000000001,6.473952000000001,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+110.925,7.113524,2,7.099046,7.128002,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+111.425,7.00532,2,6.995668,7.014972,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+112.05,6.897624,3,6.877304,6.91896,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+112.675,6.81482,2,6.806438,6.823202,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+113.175,6.750304,2,6.7431920000000005,6.757416,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+113.8,6.69544,3,6.684264,6.698996,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+114.425,6.755892,2,6.735826,6.775958,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+114.925,6.611112,2,6.596888,6.625336000000001,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+115.55,6.461760000000001,3,6.444488,6.486144000000001,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+116.175,6.361176,2,6.35508,6.367272,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+116.675,6.329172,2,6.325362,6.332982,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+117.175,6.290564,2,6.285738,6.29539,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+117.8,6.653784000000001,3,6.467348000000001,6.6766440000000005,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+118.425,6.539484,2,6.523482,6.555486,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+118.925,6.40334,2,6.383782,6.422898,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+119.55,6.255512,3,6.228588,6.278880000000001,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+120.175,6.152896,2,6.143244,6.162548,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+120.675,6.100064,2,6.096,6.104128,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+121.3,6.0726320000000005,3,6.064504,6.354064,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+121.925,6.480048,2,6.442964,6.517131999999999,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+122.425,6.270752,2,6.259576,6.281928000000001,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+123.05,6.229096,3,6.229096,6.232652,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+123.675,6.603491999999999,2,6.600698,6.606286,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+124.175,6.556248,2,6.545072,6.567424,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+124.8,6.480048,3,6.46684,6.500368,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+125.425,6.368796,2,6.357874,6.379718,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+125.925,6.326632,2,6.325108,6.328156000000001,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+126.55,6.138672,3,6.115304,6.180835999999999,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+127.175,5.994908000000001,2,5.98297,6.006846,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+127.675,5.892799999999999,2,5.883147999999999,5.902452,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+128.3,5.793232,3,5.779008,5.8044080000000005,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+128.925,5.734304,2,5.7271920000000005,5.741416,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+129.425,5.696712,2,5.694172,5.699252,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+130.05,5.667248000000001,3,5.664708000000001,5.672328,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+130.675,6.170168,2,6.155436,6.1849,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+131.175,6.061456,2,6.049264,6.073648,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+131.8,5.9436,3,5.919724,5.965444,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+132.425,5.851144,2,5.845048,5.85724,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+132.925,5.80136,2,5.796279999999999,5.80644,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+133.55,5.758688,3,5.753608,5.768848,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+134.175,5.739383999999999,2,5.738875999999999,5.739892,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+134.675,5.805932,2,5.7660540000000005,5.84581,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+135.3,5.730239999999999,3,5.713984,5.767832,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+135.925,5.761735999999999,2,5.745988,5.777483999999999,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+136.425,5.682488,2,5.674868,5.690108,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+137.05,5.6134,3,5.601208,5.628640000000001,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+137.675,5.559552,2,5.55752,5.561584,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+138.175,5.529071999999999,2,5.525516,5.532628,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+138.8,5.677408,3,5.588508,5.722112,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+139.425,5.569711999999999,2,5.552948,5.586475999999999,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+139.925,5.43306,2,5.419090000000001,5.44703,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+140.55,5.315712,3,5.2953920000000005,5.337048,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+141.175,5.24002,2,5.235702,5.244338000000001,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+141.675,5.19176,2,5.189220000000001,5.1943,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+142.3,5.1562,3,5.1562,5.159248,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+142.925,5.149088,2,5.149088,5.149088,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+143.425,5.144008,2,5.1435,5.144516,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+144.05,5.517896,3,5.5072280000000005,5.54482,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+144.675,5.456428000000001,2,5.448554000000001,5.464302,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+145.175,5.367528,2,5.356352,5.378704,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+145.8,5.271008,3,5.256784,5.288788,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+146.425,5.210556,2,5.205222000000001,5.21589,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+146.925,5.172964,2,5.168646,5.177282,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+147.55,5.152136,3,5.145531999999999,5.155184,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+148.175,5.268976,2,5.25018,5.287772,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+148.675,5.125212,2,5.109718000000001,5.140706,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+149.3,4.966208,3,4.9403,4.993132,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+149.925,4.850384,2,4.841748,4.85902,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+150.425,4.797044,2,4.789678,4.80441,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+151.05,4.743703999999999,3,4.739132,4.746751999999999,clean_stageII_48h,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch

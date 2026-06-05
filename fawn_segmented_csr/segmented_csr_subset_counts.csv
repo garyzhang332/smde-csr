@@ -1,0 +1,6 @@
+subset,label,events_before_segment_filter,sites_before_segment_filter
+all_events,All detected events,7147,41
+clean_48h,Clean 48h events,4044,41
+clean_stageII_48h,Clean 48h + stage-II-like events,1873,41
+clean_stageII_48h_no405,"Clean 48h + stage-II-like, no site 405",1766,40
+clean_stageII_48h_site_balanced,"Clean 48h + stage-II-like, site-balanced cap 30",1220,41

@@ -1,0 +1,661 @@
+csr_x_h,csr_mm,raw_smooth_mm,subset,subset_label,site_id,layer,segment,segment_label,coord_mode
+0.125,14.920429794151312,14.920429794151312,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+0.5461921069797782,14.817877610671852,14.817877610671852,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+0.9673842139595564,14.71620795552378,14.71620795552378,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+1.3885763209393347,14.615578689305734,14.615578689305734,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+1.8097684279191129,14.516054619264697,14.516054619264697,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+2.230960534898891,14.417420166765211,14.417420166765211,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+2.6521526418786694,14.319794153159112,14.319794153159112,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+3.0733447488584478,14.22300082236451,14.22300082236451,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+3.4945368558382257,14.126891665786436,14.126891665786436,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+3.915728962818004,14.031252993560914,14.031252993560914,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+4.336921069797782,13.936067816239971,13.936067816239971,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+4.75811317677756,13.841314819308002,13.841314819308002,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+5.179305283757339,13.746926736738288,13.746926736738288,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+5.600497390737117,13.652774645608108,13.652774645608108,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+6.021689497716895,13.558674532610112,13.558674532610112,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+6.442881604696673,13.464359003158116,13.464359003158116,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+6.864073711676451,13.369744011093694,13.369744011093694,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+7.28526581865623,13.29342496278187,13.29342496278187,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+7.706457925636008,13.22288675670818,13.22288675670818,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+8.127650032615787,13.158733746531906,13.158733746531906,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+8.548842139595564,13.103803046982131,13.103803046982131,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+8.970034246575343,13.055631676496343,13.055631676496343,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+9.39122635355512,13.012854678157522,13.012854678157522,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+9.812418460534898,12.976024580467854,12.976024580467854,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+10.233610567514678,12.942751246397131,12.942751246397131,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+10.654802674494457,12.912459412788628,12.912459412788628,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+11.075994781474234,12.883456283306694,12.883456283306694,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+11.497186888454012,12.855250160105848,12.855250160105848,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+11.91837899543379,12.827855342645444,12.827855342645444,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+12.339571102413569,12.800326463051569,12.800326463051569,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+12.760763209393346,12.77232079573288,12.77232079573288,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+13.181955316373124,12.743312381440552,12.743312381440552,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+13.603147423352905,12.713432798453928,12.713432798453928,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+14.02433953033268,12.681246704853349,12.681246704853349,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+14.44553163731246,12.644396278512636,12.644396278512636,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+14.866723744292235,12.606609227104077,12.606609227104077,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+15.287915851272016,12.56721855125526,12.56721855125526,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+15.709107958251794,12.526803816707856,12.526803816707856,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+16.130300065231573,12.487244212765498,12.487244212765498,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+16.55149217221135,12.44434366243921,12.44434366243921,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+16.972684279191128,12.397329435187906,12.397329435187906,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+17.393876386170906,12.350935940463854,12.350935940463854,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+17.815068493150687,12.303737087791887,12.303737087791887,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+18.236260600130464,12.256144781610937,12.256144781610937,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+18.65745270711024,12.208760627495796,12.208760627495796,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+19.07864481409002,12.15855817793512,12.15855817793512,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+19.4998369210698,12.107028042490796,12.107028042490796,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+19.921029028049578,12.053239869872543,12.053239869872543,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+20.342221135029355,11.997749370594097,11.997749370594097,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+20.763413242009133,11.940172474863369,11.940172474863369,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+21.18460534898891,11.886333477343758,11.886333477343758,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+21.605797455968688,11.832897901013068,11.832897901013068,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+22.02698956294847,11.781947370496871,11.781947370496871,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+22.44818166992825,11.73380902209703,11.73380902209703,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+22.869373776908024,11.687733772964464,11.687733772964464,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+23.2905658838878,11.645555459363576,11.645555459363576,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+23.71175799086758,11.607517188124262,11.607517188124262,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+24.13295009784736,11.569648359241627,11.569648359241627,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+24.554142204827137,11.53138292274037,11.53138292274037,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+24.975334311806915,11.490380221496723,11.490380221496723,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+25.39652641878669,11.446371434908306,11.446371434908306,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+25.81771852576647,11.397886985002458,11.397886985002458,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+26.23891063274625,11.343184899633124,11.343184899633124,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+26.660102739726028,11.286748465693304,11.286748465693304,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+27.08129484670581,11.22536670051159,11.22536670051159,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+27.502486953685583,11.158259572525804,11.158259572525804,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+27.92367906066536,11.084748548873971,11.084748548873971,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+28.34487116764514,10.998956988122156,10.998956988122156,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+28.76606327462492,10.913323702593296,10.913323702593296,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+29.187255381604697,10.83040542677596,10.83040542677596,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+29.608447488584478,10.754417454792192,10.754417454792192,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+30.02963959556425,10.683286733943982,10.683286733943982,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+30.450831702544036,10.623080081875356,10.623080081875356,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+30.87202380952381,10.576202146425883,10.576202146425883,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+31.293215916503588,10.531588582061149,10.531588582061149,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+31.714408023483365,10.488880477599883,10.488880477599883,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+32.135600130463146,10.43808714068427,10.43808714068427,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+32.55679223744292,10.39198606920567,10.39198606920567,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+32.9779843444227,10.337063277493169,10.337063277493169,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+33.39917645140248,10.274731166251296,10.274731166251296,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+33.820368558382256,10.212302852680814,10.212302852680814,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+34.24156066536204,10.160877955564278,10.160877955564278,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+34.66275277234181,10.117231612349093,10.117231612349093,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+35.08394487932159,10.087419601338375,10.087419601338375,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+35.50513698630137,10.06782369590568,10.06782369590568,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+35.92632909328115,10.05048484382418,10.05048484382418,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+36.34752120026093,10.03517449376894,10.03517449376894,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+36.7687133072407,10.018807151587724,10.018807151587724,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+37.18990541422048,10.001547713497493,10.001547713497493,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+37.61109752120026,9.978913705224729,9.978913705224729,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+38.03228962818004,9.953229271302709,9.953229271302709,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+38.45348173515982,9.927632136279438,9.927632136279438,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+38.87467384213959,9.900283654130607,9.900283654130607,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+39.295865949119374,9.872561451085511,9.872561451085511,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+39.71705805609916,9.838826148650996,9.838826148650996,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+40.13825016307893,9.80367283319804,9.80367283319804,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+40.55944227005871,9.767207869467692,9.767207869467692,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+40.98063437703848,9.730877795540367,9.730877795540367,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+41.401826484018265,9.694084221306772,9.694084221306772,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+41.823018590998046,9.662228078300071,9.662228078300071,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+42.24421069797782,9.632970990664516,9.632970990664516,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+42.6654028049576,9.606495236167468,9.606495236167468,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+43.086594911937375,9.583271108836428,9.583271108836428,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+43.50778701891716,9.56319687479614,9.56319687479614,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+43.92897912589694,9.5448204716679,9.5448204716679,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+44.35017123287671,9.530809147655448,9.530809147655448,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+44.77136333985649,9.51951269008368,9.51951269008368,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+45.192555446836266,9.508890135141062,9.508890135141062,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+45.61374755381605,9.499372007490358,9.499372007490358,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+46.03493966079583,9.490561480926184,9.490561480926184,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+46.4561317677756,9.481986215553706,9.481986215553706,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+46.87732387475538,9.474216967648832,9.474216967648832,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+47.29851598173516,9.466146099103666,9.466146099103666,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+47.71970808871494,9.457315759587855,9.457315759587855,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+48.14090019569472,9.446806836981391,9.446806836981391,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+48.56209230267449,9.434798414549158,9.434798414549158,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+48.983284409654274,9.416466868451456,9.416466868451456,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+49.40447651663405,9.394785053433909,9.394785053433909,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+49.82566862361383,9.368003418886964,9.368003418886964,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+50.24686073059361,9.3360369786507,9.3360369786507,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+50.66805283757338,9.302583566635947,9.302583566635947,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+51.089244944553165,9.261459951272975,9.261459951272975,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+51.51043705153294,9.215597362889424,9.215597362889424,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+51.93162915851272,9.17199964822488,9.17199964822488,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+52.3528212654925,9.128864277892689,9.128864277892689,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+52.77401337247228,9.08670341634103,9.08670341634103,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+53.195205479452056,9.045333003120142,9.045333003120142,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+53.61639758643183,9.004827635959696,9.004827635959696,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+54.03758969341161,8.965472516203814,8.965472516203814,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+54.45878180039139,8.925778297838876,8.925778297838876,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+54.879973907371166,8.885802154649085,8.885802154649085,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+55.30116601435095,8.845270116465558,8.845270116465558,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+55.72235812133072,8.801222922754555,8.801222922754555,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+56.1435502283105,8.762372247964906,8.762372247964906,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+56.56474233529028,8.72101534024462,8.72101534024462,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+56.98593444227006,8.681105248755676,8.681105248755676,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+57.40712654924984,8.643964229379417,8.643964229379417,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+57.82831865622961,8.608843828586457,8.608843828586457,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+58.24951076320939,8.582774452386385,8.582774452386385,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+58.67070287018917,8.559295454704932,8.559295454704932,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+59.09189497716895,8.539966239883936,8.539966239883936,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+59.51308708414873,8.523604602479292,8.523604602479292,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+59.9342791911285,8.509520327911758,8.509520327911758,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+60.35547129810829,8.493970989241964,8.493970989241964,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+60.77666340508807,8.475320027822432,8.475320027822432,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+61.19785551206784,8.454513504087734,8.454513504087734,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+61.61904761904762,8.430231592624995,8.430231592624995,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+62.040239726027394,8.402394576816285,8.402394576816285,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+62.461431833007175,8.37299263033123,8.37299263033123,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+62.88262393998696,8.33862197373398,8.33862197373398,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+63.30381604696673,8.30261485883044,8.30261485883044,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+63.72500815394651,8.267281788065743,8.267281788065743,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+64.14620026092629,8.232242978316417,8.232242978316417,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+64.56739236790607,8.197871248525276,8.197871248525276,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+64.98858447488584,8.164108536291096,8.164108536291096,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+65.40977658186563,8.131688858197208,8.131688858197208,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+65.8309686888454,8.099873561857521,8.099873561857521,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+66.25216079582518,8.068823981524217,8.068823981524217,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+66.67335290280496,8.038421379514748,8.038421379514748,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+67.09454500978474,8.007807975373392,8.007807975373392,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+67.51573711676451,7.97916443324448,7.97916443324448,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+67.93692922374429,7.950191906324464,7.950191906324464,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+68.35812133072407,7.921793066432527,7.921793066432527,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+68.77931343770385,7.894300299909342,7.894300299909342,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+69.20050554468362,7.866198379463306,7.866198379463306,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+69.62169765166341,7.843132274123796,7.843132274123796,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+70.04288975864318,7.823439686853177,7.823439686853177,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+70.46408186562296,7.80489441201208,7.80489441201208,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+70.88527397260275,7.788777897847838,7.788777897847838,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+71.30646607958252,7.774804194344616,7.774804194344616,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+71.7276581865623,7.762453942679778,7.762453942679778,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+72.14885029354207,7.751781327590356,7.751781327590356,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+72.57004240052186,7.741397937114333,7.741397937114333,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+72.99123450750163,7.731025938011053,7.731025938011053,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+73.4124266144814,7.720183720422927,7.720183720422927,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+73.83361872146119,7.708450849280023,7.708450849280023,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+74.25481082844097,7.695820307832869,7.695820307832869,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+74.67600293542074,7.680430536080843,7.680430536080843,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+75.09719504240053,7.663763366973212,7.663763366973212,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+75.5183871493803,7.645232808490998,7.645232808490998,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+75.93957925636008,7.624803045993413,7.624803045993413,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+76.36077136333985,7.603430838937312,7.603430838937312,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+76.78196347031964,7.576850088635323,7.576850088635323,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+77.20315557729941,7.549065190586205,7.549065190586205,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+77.62434768427919,7.518941895130108,7.518941895130108,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+78.04553979125897,7.487080926773624,7.487080926773624,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+78.46673189823875,7.455481071775237,7.455481071775237,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+78.88792400521852,7.421777886863087,7.421777886863087,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+79.30911611219831,7.388335676861966,7.388335676861966,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+79.73030821917808,7.356042390324356,7.356042390324356,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+80.15150032615786,7.324189953868024,7.324189953868024,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+80.57269243313763,7.292467462657421,7.292467462657421,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+80.99388454011742,7.25965571851892,7.25965571851892,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+81.4150766470972,7.226994912822615,7.226994912822615,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+81.83626875407697,7.1932022681116266,7.1932022681116266,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+82.25746086105676,7.157424765747613,7.157424765747613,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+82.67865296803653,7.1198379612903615,7.1198379612903615,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+83.0998450750163,7.080422353365994,7.080422353365994,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+83.52103718199609,7.039767694691751,7.039767694691751,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+83.94222928897587,6.997683518537772,6.997683518537772,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+84.36342139595564,6.95608728068019,6.95608728068019,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+84.78461350293541,6.915388163533005,6.915388163533005,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+85.2058056099152,6.876091983035072,6.876091983035072,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+85.62699771689498,6.838445878407184,6.838445878407184,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+86.04818982387475,6.799626771847421,6.799626771847421,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+86.46938193085454,6.761611863800964,6.761611863800964,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+86.89057403783431,6.723745755055188,6.723745755055188,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+87.31176614481409,6.685684393938835,6.685684393938835,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+87.73295825179387,6.647260928734018,6.647260928734018,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+88.15415035877365,6.6083396703628186,6.6083396703628186,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+88.57534246575342,6.569008453506249,6.569008453506249,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+88.9965345727332,6.5292573786821055,6.5292573786821055,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+89.41772667971298,6.489136980627554,6.489136980627554,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+89.83891878669276,6.448718238244261,6.448718238244261,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+90.26011089367252,6.408080551513934,6.408080551513934,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+90.68130300065232,6.367304443481147,6.367304443481147,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+91.1024951076321,6.32647413846023,6.32647413846023,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+91.52368721461188,6.285626534418272,6.285626534418272,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+91.94487932159166,6.244793460938871,6.244793460938871,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+92.36607142857144,6.203993894710145,6.203993894710145,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,early_0_3h,"Early transient, 0-3 h",state_stitch
+0.125,13.476485447387429,13.476485447387429,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+0.5494672754946728,13.443672417925246,13.443672417925246,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+0.9739345509893454,13.40970633852856,13.40970633852856,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+1.398401826484018,13.374538249253265,13.374538249253265,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+1.822869101978691,13.33819654359852,13.33819654359852,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+2.2473363774733635,13.300862298203771,13.300862298203771,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+2.671803652968036,13.262754038175,13.262754038175,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+3.096270928462709,13.224174209110242,13.224174209110242,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+3.520738203957382,13.18533281447811,13.18533281447811,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+3.945205479452055,13.146426871833167,13.146426871833167,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+4.369672754946727,13.107570881983282,13.107570881983282,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+4.7941400304414,13.068805741096922,13.068805741096922,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+5.2186073059360725,13.030089283058537,13.030089283058537,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+5.643074581430746,12.99115679505387,12.99115679505387,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+6.067541856925418,12.951459288002804,12.951459288002804,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+6.492009132420091,12.91007392631446,12.91007392631446,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+6.916476407914764,12.864466622758975,12.864466622758975,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+7.340943683409436,12.807664857188394,12.807664857188394,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+7.765410958904109,12.746078172310629,12.746078172310629,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+8.189878234398781,12.680919578634196,12.680919578634196,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+8.614345509893454,12.614518396951382,12.614518396951382,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+9.038812785388128,12.548215613497364,12.548215613497364,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+9.4632800608828,12.48260649825692,12.48260649825692,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+9.887747336377473,12.41773042466994,12.41773042466994,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+10.312214611872143,12.353509418815532,12.353509418815532,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+10.736681887366816,12.290198029657398,12.290198029657398,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+11.161149162861491,12.22810449733252,12.22810449733252,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+11.585616438356164,12.167547329403074,12.167547329403074,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+12.010083713850836,12.108641941822077,12.108641941822077,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+12.434550989345508,12.052180618504677,12.052180618504677,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+12.859018264840184,11.998939305618288,11.998939305618288,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+13.283485540334857,11.94643117111967,11.94643117111967,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+13.707952815829527,11.897722545051812,11.897722545051812,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+14.1324200913242,11.85149580706098,11.85149580706098,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+14.556887366818872,11.810027174534836,11.810027174534836,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+14.981354642313546,11.769647749141251,11.769647749141251,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+15.405821917808218,11.731499385905972,11.731499385905972,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+15.83028919330289,11.694341446659424,11.694341446659424,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+16.254756468797563,11.65972381026238,11.65972381026238,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+16.679223744292237,11.628464804462528,11.628464804462528,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+17.103691019786908,11.598080988470493,11.598080988470493,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+17.52815829528158,11.569816872634062,11.569816872634062,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+17.952625570776256,11.543247725379477,11.543247725379477,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+18.377092846270926,11.517932082775854,11.517932082775854,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+18.8015601217656,11.493859942540366,11.493859942540366,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+19.22602739726027,11.470706144675772,11.470706144675772,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+19.650494672754945,11.448093967272936,11.448093967272936,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+20.07496194824962,11.425625092242484,11.425625092242484,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+20.49942922374429,11.403876336084474,11.403876336084474,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+20.923896499238964,11.38258513161973,11.38258513161973,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+21.348363774733635,11.36248260876516,11.36248260876516,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+21.77283105022831,11.343525014287948,11.343525014287948,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+22.197298325722983,11.325900624997995,11.325900624997995,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+22.621765601217653,11.309111110675754,11.309111110675754,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+23.046232876712327,11.294646312695113,11.294646312695113,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+23.470700152207,11.283228618834386,11.283228618834386,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+23.895167427701672,11.270298088083411,11.270298088083411,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+24.319634703196343,11.259052584334055,11.259052584334055,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+24.744101978691017,11.247541402576786,11.247541402576786,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+25.16856925418569,11.235080838604556,11.235080838604556,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+25.593036529680365,11.220640188795748,11.220640188795748,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+26.01750380517504,11.20338741839418,11.20338741839418,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+26.44197108066971,11.18292645317355,11.18292645317355,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+26.86643835616438,11.158800928897731,11.158800928897731,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+27.29090563165905,11.130719088279264,11.130719088279264,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+27.71537290715373,11.098624130389824,11.098624130389824,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+28.1398401826484,11.062754750553374,11.062754750553374,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+28.564307458143077,11.023535843912017,11.023535843912017,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+28.988774733637744,10.982013692558583,10.982013692558583,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+29.413242009132414,10.93942989333514,10.93942989333514,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+29.83770928462709,10.89717991814235,10.89717991814235,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+30.26217656012176,10.856357821316314,10.856357821316314,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+30.68664383561644,10.817274021819498,10.817274021819498,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+31.111111111111107,10.779341883552826,10.779341883552826,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+31.53557838660578,10.741215814453172,10.741215814453172,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+31.960045662100452,10.70188496935776,10.70188496935776,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+32.384512937595126,10.660741466012698,10.660741466012698,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+32.8089802130898,10.617620457765616,10.617620457765616,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+33.233447488584474,10.572663805052644,10.572663805052644,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+33.657914764079145,10.52647557854427,10.52647557854427,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+34.082382039573815,10.47985157160861,10.47985157160861,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+34.50684931506849,10.43328741696059,10.43328741696059,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+34.93131659056316,10.387440085740025,10.387440085740025,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+35.355783866057834,10.342976632006405,10.342976632006405,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+35.78025114155251,10.300334314184433,10.300334314184433,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+36.20471841704718,10.2597934141375,10.2597934141375,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+36.62918569254185,10.221092151443749,10.221092151443749,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+37.05365296803653,10.18394657686954,10.18394657686954,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+37.4781202435312,10.147223912354988,10.147223912354988,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+37.90258751902587,10.10931570183214,10.10931570183214,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+38.32705479452054,10.069451115322098,10.069451115322098,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+38.75152207001522,10.028026577500093,10.028026577500093,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+39.17598934550989,9.986157571632278,9.986157571632278,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+39.60045662100456,9.945078144804716,9.945078144804716,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+40.02492389649924,9.905102958178064,9.905102958178064,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+40.44939117199391,9.86551565127709,9.86551565127709,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+40.87385844748858,9.825616933366168,9.825616933366168,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+41.29832572298326,9.785302473579064,9.785302473579064,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+41.72279299847793,9.744898708580491,9.744898708580491,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+42.1472602739726,9.704836581357636,9.704836581357636,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+42.57172754946727,9.665442714840818,9.665442714840818,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+42.99619482496195,9.626938803052813,9.626938803052813,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+43.42066210045662,9.589417731149204,9.589417731149204,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+43.84512937595129,9.552971172755507,9.552971172755507,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+44.269596651445966,9.517662560855644,9.517662560855644,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+44.69406392694064,9.483525493195271,9.483525493195271,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+45.11853120243531,9.450186789532964,9.450186789532964,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+45.542998477929984,9.417101790676565,9.417101790676565,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+45.967465753424655,9.383669891509255,9.383669891509255,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+46.391933028919325,9.34922715070677,9.34922715070677,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+46.816400304414,9.313124290867863,9.313124290867863,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+47.240867579908674,9.274825969348177,9.274825969348177,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+47.665334855403344,9.23438119327981,9.23438119327981,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+48.089802130898015,9.192612035882682,9.192612035882682,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+48.51426940639269,9.149951642444474,9.149951642444474,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+48.93873668188736,9.106879522333454,9.106879522333454,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+49.363203957382034,9.063712473655784,9.063712473655784,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+49.78767123287671,9.020954022261908,9.020954022261908,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+50.21213850837138,8.979813396062465,8.979813396062465,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+50.63660578386605,8.941021388471185,8.941021388471185,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+51.06107305936073,8.905396016284508,8.905396016284508,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+51.4855403348554,8.873909336096574,8.873909336096574,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+51.91000761035007,8.84734026531858,8.84734026531858,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+52.33447488584474,8.82569208132641,8.82569208132641,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+52.75894216133942,8.80927477412122,8.80927477412122,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+53.18340943683409,8.79653523337813,8.79653523337813,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+53.60787671232876,8.785832560550404,8.785832560550404,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+54.03234398782344,8.774454001175833,8.774454001175833,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+54.45681126331811,8.760033045783597,8.760033045783597,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+54.88127853881278,8.741265747609118,8.741265747609118,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+55.30574581430746,8.716151025257515,8.716151025257515,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+55.73021308980213,8.684110742935966,8.684110742935966,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+56.1546803652968,8.644698456865823,8.644698456865823,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+56.57914764079148,8.59840402376172,8.59840402376172,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+57.00361491628615,8.545446523832945,8.545446523832945,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+57.42808219178082,8.487149900639041,8.487149900639041,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+57.85254946727549,8.426807906609321,8.426807906609321,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+58.277016742770165,8.359075764702231,8.359075764702231,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+58.70148401826484,8.292392750762293,8.292392750762293,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+59.12595129375951,8.225618709896626,8.225618709896626,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+59.55041856925418,8.158076014716812,8.158076014716812,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+59.97488584474885,8.088238948876132,8.088238948876132,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+60.399353120243525,8.015567774086875,8.015567774086875,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+60.8238203957382,7.941086265237549,7.941086265237549,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+61.24828767123287,7.867811500521433,7.867811500521433,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+61.67275494672754,7.804770623597781,7.804770623597781,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+62.09722222222221,7.751385962279052,7.751385962279052,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+62.52168949771689,7.715259674287522,7.715259674287522,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+62.94615677321156,7.688655006014315,7.688655006014315,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+63.37062404870623,7.682892551600124,7.682892551600124,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+63.79509132420091,7.680698716340674,7.680698716340674,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+64.21955859969559,7.680698716340674,7.685473181806274,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+64.64402587519025,7.680698716340674,7.6973960812125535,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+65.06849315068493,7.680698716340674,7.71023294877298,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+65.4929604261796,7.680698716340674,7.733110572512996,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+65.91742770167427,7.680698716340674,7.756898517801599,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+66.34189497716895,7.680698716340674,7.782560328193304,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+66.76636225266361,7.680698716340674,7.81576061845296,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+67.19082952815829,7.680698716340674,7.855925147925683,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+67.61529680365297,7.680698716340674,7.903055426229963,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+68.03976407914763,7.680698716340674,7.954167858061115,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+68.46423135464231,7.680698716340674,8.00727748627507,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+68.88869863013699,7.680698716340674,8.060108472041337,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+69.31316590563165,7.680698716340674,8.110004835537708,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+69.73763318112633,7.680698716340674,8.15298455844352,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+70.162100456621,7.680698716340674,8.191099844664583,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+70.58656773211567,7.680698716340674,8.221416922734702,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+71.01103500761035,7.680698716340674,8.244920890739508,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+71.43550228310502,7.680698716340674,8.261680284505564,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+71.85996955859969,7.680698716340674,8.273331547800957,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+72.28443683409436,7.680698716340674,8.278139671810209,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+72.70890410958904,7.680698716340674,8.27922437000735,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+73.1333713850837,7.680698716340674,8.276239269309885,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+73.55783866057838,7.680698716340674,8.271675772804825,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+73.98230593607306,7.680698716340674,8.266688769056326,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+74.40677321156772,7.680698716340674,8.263183168065046,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+74.8312404870624,7.680698716340674,8.26095044146491,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+75.25570776255707,7.680698716340674,8.257683084256058,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+75.68017503805174,7.680698716340674,8.250818667182717,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+76.10464231354642,7.680698716340674,8.23901551249876,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+76.52910958904108,7.680698716340674,8.219557963416893,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+76.95357686453576,7.680698716340674,8.190612933684687,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+77.37804414003044,7.680698716340674,8.149576967617529,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+77.8025114155251,7.680698716340674,8.099001112484277,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+78.22697869101978,7.680698716340674,8.039056495180931,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+78.65144596651446,7.680698716340674,7.971447443475762,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+79.07591324200912,7.680698716340674,7.898261740018576,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+79.5003805175038,7.680698716340674,7.82100949704536,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+79.92484779299848,7.680698716340674,7.740728219302368,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+80.34931506849314,7.657931269263133,7.657931269263133,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+80.77378234398782,7.572108484911995,7.572108484911995,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+81.1982496194825,7.483059710130199,7.483059710130199,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+81.62271689497716,7.390790002170228,7.390790002170228,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+82.04718417047184,7.296287666053589,7.296287666053589,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+82.47165144596651,7.199953798047813,7.199953798047813,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+82.89611872146118,7.102998101365096,7.102998101365096,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+83.32058599695586,7.006495013759521,7.006495013759521,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+83.74505327245053,6.911367631691533,6.911367631691533,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+84.1695205479452,6.818736854998913,6.818736854998913,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+84.59398782343987,6.729380248608351,6.729380248608351,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+85.01845509893454,6.643738453165404,6.643738453165404,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+85.44292237442922,6.561907445857374,6.561907445857374,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+85.8673896499239,6.4857652941538175,6.4857652941538175,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+86.29185692541856,6.418689122071415,6.418689122071415,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+86.71632420091323,6.36883835747648,6.36883835747648,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+87.14079147640791,6.320965399391263,6.320965399391263,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+87.56525875190258,6.273879952080503,6.273879952080503,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+87.98972602739725,6.227311181548366,6.227311181548366,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+88.41419330289193,6.18140993046567,6.18140993046567,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+88.8386605783866,6.136236822992701,6.136236822992701,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+89.26312785388127,6.091870720180063,6.091870720180063,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+89.68759512937595,6.0483213476075095,6.0483213476075095,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+90.1120624048706,6.005554586990419,6.005554586990419,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+90.53652968036528,5.963532009696758,5.963532009696758,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+90.96099695585995,5.922219886342919,5.922219886342919,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+91.38546423135465,5.881553565676677,5.881553565676677,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+91.80993150684932,5.841535430679768,5.841535430679768,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+92.234398782344,5.802200082995798,5.802200082995798,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+92.65886605783864,5.7635762430754935,5.7635762430754935,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+93.08333333333331,5.725655779939494,5.725655779939494,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_mid_storage,Post-3 h mid-storage stage-II-like segment,state_stitch
+0.25,12.335366322863583,12.335366322863583,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+0.9385844748858448,12.274931975800946,12.274931975800946,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+1.6271689497716897,12.215105374377387,12.215105374377387,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+2.3157534246575344,12.155924975450825,12.155924975450825,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+3.00433789954338,12.09722926950991,12.09722926950991,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+3.692922374429224,12.039329895885173,12.039329895885173,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+4.381506849315069,11.982126067944057,11.982126067944057,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+5.070091324200914,11.925623877242126,11.925623877242126,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+5.758675799086759,11.869744929826725,11.869744929826725,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+6.447260273972604,11.814450948631023,11.814450948631023,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+7.135844748858449,11.759761588457664,11.759761588457664,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+7.824429223744294,11.705580667393468,11.705580667393468,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+8.513013698630138,11.65183760894884,11.65183760894884,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+9.201598173515984,11.598384884780153,11.598384884780153,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+9.890182648401828,11.545030194336633,11.545030194336633,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+10.578767123287673,11.49160531994404,11.49160531994404,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+11.267351598173518,11.438045200508558,11.438045200508558,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+11.955936073059362,11.384887288296945,11.384887288296945,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+12.644520547945207,11.33261779104452,11.33261779104452,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+13.333105022831052,11.282889400436288,11.282889400436288,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+14.021689497716896,11.237243674609978,11.237243674609978,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+14.710273972602742,11.199422033294134,11.199422033294134,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+15.398858447488587,11.16624555831064,11.16624555831064,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+16.087442922374432,11.136364283677803,11.136364283677803,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+16.776027397260275,11.110902330905157,11.110902330905157,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+17.464611872146122,11.085143904918386,11.085143904918386,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+18.153196347031965,11.059078004787212,11.059078004787212,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+18.84178082191781,11.03164003776864,11.03164003776864,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+19.53036529680365,11.002674868516085,11.002674868516085,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+20.218949771689505,10.970960801494886,10.970960801494886,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+20.907534246575345,10.938929243081184,10.938929243081184,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+21.596118721461192,10.908853693270444,10.908853693270444,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+22.284703196347035,10.88223865933202,10.88223865933202,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+22.97328767123288,10.857721230449512,10.857721230449512,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+23.661872146118725,10.844180306683038,10.844180306683038,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+24.350456621004568,10.832734640860233,10.832734640860233,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+25.03904109589041,10.827328975898403,10.827328975898403,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+25.727625570776254,10.827139831509657,10.827139831509657,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+26.416210045662105,10.827139831509657,10.828931060023386,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+27.104794520547948,10.827139831509657,10.833372389020624,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+27.793378995433795,10.827139831509657,10.838894531881666,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+28.48196347031964,10.827139831509657,10.84412825748674,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+29.170547945205485,10.827139831509657,10.848180059510632,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+29.859132420091328,10.827139831509657,10.8507743590007,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+30.54771689497717,10.827139831509657,10.852079400995184,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+31.236301369863018,10.827139831509657,10.852983697823346,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+31.924885844748864,10.827139831509657,10.854707598992771,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+32.61347031963471,10.827139831509657,10.858268428528394,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+33.30205479452055,10.827139831509657,10.864432890437074,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+33.990639269406394,10.827139831509657,10.873590032130776,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+34.679223744292244,10.827139831509657,10.88468211306803,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+35.36780821917809,10.827139831509657,10.895957346183216,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+36.05639269406393,10.827139831509657,10.90602661566221,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+36.744977168949774,10.827139831509657,10.912735461376494,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+37.43356164383562,10.827139831509657,10.915237227703402,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+38.12214611872147,10.827139831509657,10.914845970318597,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+38.81073059360731,10.827139831509657,10.910511800848548,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+39.49931506849315,10.827139831509657,10.903905415473606,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+40.18789954337901,10.827139831509657,10.895121343403623,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+40.87648401826485,10.827139831509657,10.884228284173192,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+41.56506849315069,10.827139831509657,10.872628721500778,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+42.25365296803653,10.827139831509657,10.85823938692875,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+42.942237442922384,10.827139831509657,10.843450335863986,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+43.63082191780823,10.827139831509657,10.827727704770789,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+44.31940639269407,10.809720696760392,10.809720696760392,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+45.00799086757991,10.792288239809723,10.792288239809723,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+45.69657534246576,10.771957571522297,10.771957571522297,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+46.38515981735161,10.750605594349308,10.750605594349308,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+47.07374429223745,10.727490671207216,10.727490671207216,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+47.76232876712329,10.701246952241034,10.701246952241034,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+48.450913242009136,10.671451774594328,10.671451774594328,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+49.13949771689499,10.638774628011571,10.638774628011571,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+49.82808219178083,10.603220087731437,10.603220087731437,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+50.51666666666667,10.56248297935997,10.56248297935997,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+51.20525114155252,10.520423949627922,10.520423949627922,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+51.893835616438366,10.476781763918602,10.476781763918602,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+52.58242009132421,10.433591793835992,10.433591793835992,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+53.27100456621005,10.391639758112056,10.391639758112056,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+53.959589041095896,10.352640234204705,10.352640234204705,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+54.64817351598175,10.315034078926995,10.315034078926995,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+55.33675799086759,10.280464227124384,10.280464227124384,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+56.02534246575343,10.248563960029765,10.248563960029765,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+56.71392694063928,10.21777822582955,10.21777822582955,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+57.40251141552512,10.192084191718644,10.192084191718644,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+58.09109589041097,10.16682474733902,10.16682474733902,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+58.77968036529681,10.143113179205203,10.143113179205203,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+59.468264840182655,10.120155899150951,10.120155899150951,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+60.1568493150685,10.09581767315421,10.09581767315421,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+60.84543378995435,10.069527364226833,10.069527364226833,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+61.53401826484019,10.040702855350691,10.040702855350691,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+62.22260273972604,10.008848435595654,10.008848435595654,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+62.91118721461188,9.97433479425591,9.97433479425591,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+63.59977168949773,9.937400476201754,9.937400476201754,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+64.28835616438357,9.898139777758985,9.898139777758985,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+64.97694063926942,9.856776884099094,9.856776884099094,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+65.66552511415526,9.81284800086016,9.81284800086016,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+66.3541095890411,9.765563652166566,9.765563652166566,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+67.04269406392694,9.713750166615773,9.713750166615773,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+67.73127853881279,9.65601572100042,9.65601572100042,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+68.41986301369865,9.592877911794284,9.592877911794284,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+69.10844748858449,9.525046343217804,9.525046343217804,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+69.79703196347033,9.454941532764732,9.454941532764732,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+70.48561643835617,9.383858989605384,9.383858989605384,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+71.17420091324202,9.31268685739535,9.31268685739535,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+71.86278538812786,9.241291719303826,9.241291719303826,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+72.5513698630137,9.170219220203066,9.170219220203066,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+73.23995433789955,9.097854998156665,9.097854998156665,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+73.9285388127854,9.025901635426171,9.025901635426171,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+74.61712328767125,8.95684567063616,8.95684567063616,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+75.30570776255709,8.88711761158231,8.88711761158231,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+75.99429223744293,8.825725947386164,8.825725947386164,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+76.68287671232878,8.765639172232817,8.765639172232817,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+77.37146118721462,8.708798824064404,8.708798824064404,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+78.06004566210046,8.658343897703157,8.658343897703157,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+78.7486301369863,8.608828029557374,8.608828029557374,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+79.43721461187215,8.564903919613531,8.564903919613531,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+80.12579908675801,8.523837662619226,8.523837662619226,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+80.81438356164385,8.485707655908229,8.485707655908229,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+81.5029680365297,8.45044982743983,8.45044982743983,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+82.19155251141554,8.417210212874833,8.417210212874833,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+82.88013698630138,8.384797508347567,8.384797508347567,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+83.56872146118722,8.35368607504766,8.35368607504766,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+84.25730593607307,8.3227657975851,8.3227657975851,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+84.94589041095891,8.292451963979996,8.292451963979996,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+85.63447488584477,8.262954399122668,8.262954399122668,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+86.32305936073061,8.234304660997736,8.234304660997736,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+87.01164383561645,8.206056294557513,8.206056294557513,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+87.7002283105023,8.179869746392484,8.179869746392484,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+88.38881278538814,8.153366321030042,8.153366321030042,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+89.07739726027398,8.128169940172572,8.128169940172572,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+89.76598173515983,8.104006623624095,8.104006623624095,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+90.45456621004568,8.079256253084905,8.079256253084905,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+91.14315068493153,8.056568758361452,8.056568758361452,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+91.83173515981736,8.032932709510485,8.032932709510485,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+92.5203196347032,8.009275940115174,8.009275940115174,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+93.20890410958906,7.985156884284836,7.985156884284836,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+93.8974885844749,7.961046914696718,7.961046914696718,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+94.58607305936074,7.936178863932669,7.936178863932669,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+95.2746575342466,7.909543583470923,7.909543583470923,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+95.96324200913244,7.882746543343065,7.882746543343065,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+96.65182648401829,7.8545829521012305,7.8545829521012305,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+97.34041095890412,7.824452155751062,7.824452155751062,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+98.02899543378996,7.791313761172534,7.791313761172534,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+98.71757990867582,7.754336650914329,7.754336650914329,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+99.40616438356166,7.7126191647879905,7.7126191647879905,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+100.0947488584475,7.666553436985214,7.666553436985214,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+100.78333333333336,7.616273186292596,7.616273186292596,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+101.4719178082192,7.562780564956631,7.562780564956631,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+102.16050228310505,7.506602595351103,7.506602595351103,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+102.84908675799088,7.450085572764348,7.450085572764348,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+103.53767123287672,7.393235196815697,7.393235196815697,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+104.22625570776258,7.336742894661241,7.336742894661241,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+104.91484018264842,7.281261995818679,7.281261995818679,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+105.60342465753426,7.226280142339586,7.226280142339586,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+106.2920091324201,7.17260195904963,7.17260195904963,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+106.98059360730596,7.120199573350954,7.120199573350954,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+107.6691780821918,7.067851353456269,7.067851353456269,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+108.35776255707763,7.016925117020557,7.016925117020557,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+109.04634703196348,6.96546046982549,6.96546046982549,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+109.73493150684934,6.915936714067305,6.915936714067305,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+110.42351598173518,6.866016495969276,6.866016495969276,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+111.11210045662102,6.816592118661459,6.816592118661459,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+111.80068493150686,6.769447285079877,6.769447285079877,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+112.48926940639272,6.723064792086154,6.723064792086154,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+113.17785388127857,6.680228098610214,6.680228098610214,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+113.8664383561644,6.640417127678797,6.640417127678797,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+114.55502283105024,6.603898990980801,6.603898990980801,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+115.2436073059361,6.572580379323753,6.572580379323753,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+115.93219178082194,6.543669897788771,6.543669897788771,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+116.62077625570778,6.518040309608433,6.518040309608433,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+117.30936073059362,6.493441943530395,6.493441943530395,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+117.99794520547948,6.46876307616589,6.46876307616589,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+118.68652968036533,6.442281114130113,6.442281114130113,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+119.37511415525115,6.413382727418068,6.413382727418068,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+120.063698630137,6.382201291696987,6.382201291696987,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+120.75228310502284,6.349480982044355,6.349480982044355,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+121.4408675799087,6.316366326783985,6.316366326783985,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+122.12945205479454,6.284092295805391,6.284092295805391,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+122.81803652968038,6.253084365689812,6.253084365689812,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+123.50662100456624,6.223279514114857,6.223279514114857,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+124.19520547945208,6.195096458617808,6.195096458617808,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+124.88378995433791,6.16748659700722,6.16748659700722,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+125.57237442922376,6.141118617725024,6.141118617725024,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+126.2609589041096,6.115005661165077,6.115005661165077,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+126.94954337899546,6.088336008028271,6.088336008028271,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+127.6381278538813,6.061479522811544,6.061479522811544,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+128.32671232876714,6.0328853542513805,6.0328853542513805,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+129.01529680365297,6.003467876257364,6.003467876257364,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+129.70388127853883,5.972474215473562,5.972474215473562,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+130.3924657534247,5.939658745821194,5.939658745821194,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+131.08105022831052,5.904956646610233,5.904956646610233,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+131.76963470319637,5.868489861887932,5.868489861887932,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+132.4582191780822,5.83097074241013,5.83097074241013,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+133.14680365296806,5.793250659211212,5.793250659211212,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+133.8353881278539,5.756150511195399,5.756150511195399,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+134.52397260273975,5.720297418646465,5.720297418646465,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+135.21255707762558,5.686351070454427,5.686351070454427,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+135.90114155251143,5.654128769139401,5.654128769139401,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+136.5897260273973,5.623279624383437,5.623279624383437,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+137.27831050228312,5.593020989512496,5.593020989512496,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+137.96689497716898,5.562892085795909,5.562892085795909,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+138.6554794520548,5.532477502246215,5.532477502246215,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+139.34406392694066,5.50147981789295,5.50147981789295,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+140.0326484018265,5.469737394804706,5.469737394804706,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+140.72123287671235,5.437627626633085,5.437627626633085,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+141.4098173515982,5.403508820660974,5.403508820660974,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+142.09840182648404,5.368230795305025,5.368230795305025,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+142.7869863013699,5.332456532126468,5.332456532126468,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+143.47557077625572,5.2964922109620565,5.2964922109620565,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+144.16415525114158,5.260560076677428,5.260560076677428,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+144.8527397260274,5.224797052420166,5.224797052420166,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+145.54132420091327,5.1892779513971306,5.1892779513971306,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+146.2299086757991,5.153989198420851,5.153989198420851,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+146.91849315068495,5.118910534203722,5.118910534203722,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+147.6070776255708,5.084045689100023,5.084045689100023,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+148.29566210045664,5.049321635584893,5.049321635584893,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+148.9842465753425,5.014684889886093,5.014684889886093,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+149.67283105022833,4.980060119786637,4.980060119786637,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+150.36141552511418,4.945389311353447,4.945389311353447,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch
+151.05,4.910610996173498,4.910610996173498,clean_stageII_48h,Clean 48h + stage-II-like events,275,moisture_4in,post3_late_storage,Post-3 h low-storage tail,state_stitch

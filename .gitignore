@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Raw FAWN source files are not redistributed in this repository.
+fawn_db_export/data/*.parquet
+fawn_db_export/data/*.json
+
+# Local environment files
+.env
+.venv/
+venv/
+
+# Optional high-resolution exports regenerated from scripts
+*.tiff
+*.tif
