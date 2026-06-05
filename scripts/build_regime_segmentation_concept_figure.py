@@ -1,13 +1,17 @@
-﻿from __future__ import annotations
+from __future__ import annotations
 
 from pathlib import Path
 
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 import numpy as np
+import pandas as pd
 
 
-OUT = Path(__file__).resolve().parents[1] / "figures"
+ROOT = Path(__file__).resolve().parents[1]
+OUT = ROOT / "_analysis" / "journal_hydrology_submission" / "conceptual_figure"
+EMPIRICAL = ROOT / "_analysis" / "experiment2_loss_function_regime_diagnosis" / "source_data" / "experiment2_empirical_loss_storage_4in.csv"
+REP_POINTS = ROOT / "_analysis" / "experiment3_localized_segmented_csr" / "source_data" / "experiment3_representative_location_aligned_points.csv"
 OUT.mkdir(parents=True, exist_ok=True)
 
 
@@ -32,20 +36,28 @@ COL = {
     "ink": "#303030",
     "muted": "#6F7378",
     "early": "#C78D4B",
-    "mid": "#355C7D",
-    "late": "#6FA38A",
-    "uncertain": "#9A9A9A",
+    "stage1": "#4F7B9C",
+    "stage2": "#6FA38A",
+    "mixed": "#9A9A9A",
     "fill_early": "#F4E3D0",
-    "fill_mid": "#DCE8F4",
-    "fill_late": "#E1EEE6",
-    "fill_gray": "#ECEFF2",
+    "fill_stage1": "#DCE8F4",
+    "fill_stage2": "#E1EEE6",
+    "grid": "#E7EBEF",
+    "accent": "#A64B56",
+}
+
+REGIME_COLORS = {
+    "Stage-II-like": COL["stage2"],
+    "Stage-I-like": COL["stage1"],
+    "Early transient": COL["early"],
+    "Mixed/uncertain": COL["mixed"],
 }
 
 
 def add_panel_label(ax: plt.Axes, label: str) -> None:
     ax.text(
-        -0.08,
-        1.07,
+        -0.10,
+        1.08,
         label,
         transform=ax.transAxes,
         ha="left",
@@ -63,148 +75,207 @@ def save_pub(fig: plt.Figure, stem: str) -> None:
     fig.savefig(OUT / f"{stem}.tiff", dpi=600, bbox_inches="tight")
 
 
-def plot_segmentation(ax: plt.Axes) -> None:
-    t = np.linspace(0, 10, 400)
-    s = 4.2 + 5.8 * np.exp(-t / 4.2) - 0.35 * (1 - np.exp(-t / 1.1))
-    s0 = float(s[0])
-    send = float(s[-1])
-    x_storage = (s - send) / (s0 - send)
-    threshold = send + 0.25 * (s0 - send)
-    cross_idx = np.argmin(np.abs(x_storage - 0.25))
-    t_cross = float(t[cross_idx])
-
-    ax.axvspan(0, 3, color=COL["fill_early"], lw=0, zorder=0)
-    ax.axvspan(3, t_cross, color=COL["fill_mid"], lw=0, zorder=0)
-    ax.axvspan(t_cross, 10, color=COL["fill_late"], lw=0, zorder=0)
-    ax.plot(t, s, color=COL["ink"], lw=2.1)
-    ax.axvline(3, color=COL["early"], lw=1.2, ls="--")
-    ax.axhline(threshold, color=COL["late"], lw=1.0, ls=":")
-    ax.scatter([0, 3, t_cross, 10], [s[0], np.interp(3, t, s), threshold, send], s=16, color=COL["ink"], zorder=3)
-
-    top_y = s0 + 0.78
-    ax.text(1.5, top_y, "0-3 h", ha="center", va="center", color=COL["early"], fontsize=7.2, fontweight="bold")
-    ax.text((3 + t_cross) / 2, top_y, r"post-3 h, $x_s\geq0.25$", ha="center", va="center", color=COL["mid"], fontsize=7.2, fontweight="bold")
-    ax.text((t_cross + 10) / 2, top_y, r"post-3 h, $x_s<0.25$", ha="center", va="center", color=COL["late"], fontsize=7.2, fontweight="bold")
-    ax.text(3.05, send + 0.12, "t = 3 h", ha="left", va="bottom", color=COL["early"], fontsize=6.7)
-    ax.text(9.85, threshold + 0.10, r"$x_s=0.25$", ha="right", va="bottom", color=COL["late"], fontsize=6.9)
-    ax.set_xlim(0, 10)
-    ax.set_ylim(send - 0.2, s0 + 1.15)
-    ax.set_xlabel("Elapsed time since SMDE start, t (h)")
-    ax.set_ylabel("Soil water amount, S(t)")
-    ax.set_title("SMDE segmentation used for CSR", loc="left", fontsize=8, pad=8)
+def style_axis(ax: plt.Axes) -> None:
+    ax.grid(axis="y", color=COL["grid"], lw=0.6, zorder=0)
+    ax.tick_params(labelsize=7)
 
 
-def plot_loss_regimes(ax: plt.Axes) -> None:
-    x = np.linspace(0, 1, 400)
-    stage2 = 0.12 + 0.95 * x**1.45
-    stage1 = np.full_like(x, 0.78)
-    early = 0.50 + 1.35 * x**3.0
+def plot_canonical_loss_function(ax: plt.Axes) -> None:
+    theta_w = 0.08
+    theta_star = 0.60
+    theta_fc = 0.72
+    emax = 1.0
 
-    ax.axvspan(0.00, 0.42, color=COL["fill_late"], lw=0)
-    ax.axvspan(0.42, 0.76, color=COL["fill_mid"], lw=0)
-    ax.axvspan(0.76, 1.00, color=COL["fill_early"], lw=0)
-    ax.plot(x, stage2, color=COL["late"], lw=2.2, label="Stage-II-like")
-    ax.plot(x, stage1, color=COL["mid"], lw=1.8, label="Stage-I-like")
-    ax.plot(x, early, color=COL["early"], lw=1.8, label="Early transient-heavy")
-    ax.fill_between(x, stage2 - 0.05, stage2 + 0.05, color=COL["late"], alpha=0.08, lw=0)
-    ax.fill_between(x, early - 0.08, early + 0.08, color=COL["early"], alpha=0.08, lw=0)
+    x2 = np.linspace(theta_w, theta_star, 140)
+    l2 = emax * ((x2 - theta_w) / (theta_star - theta_w)) ** 1.05
+    x1 = np.linspace(theta_star, theta_fc, 40)
+    l1 = np.full_like(x1, emax)
+    xw = np.linspace(theta_fc, 1.0, 120)
+    lw = emax + 1.15 * ((xw - theta_fc) / (1.0 - theta_fc)) ** 2.7
 
-    ax.text(0.21, 1.77, "storage-limited", ha="center", va="center", color=COL["late"], fontsize=6.8)
-    ax.text(0.59, 1.77, "storage-invariant", ha="center", va="center", color=COL["mid"], fontsize=6.8)
-    ax.text(0.88, 1.77, "wet transient", ha="center", va="center", color=COL["early"], fontsize=6.8)
-    ax.text(1.025, stage2[-1], "Stage-II", ha="left", va="center", color=COL["late"], fontsize=6.8, clip_on=False)
-    ax.text(1.025, stage1[-1], "Stage-I", ha="left", va="center", color=COL["mid"], fontsize=6.8, clip_on=False)
-    ax.text(1.025, early[-1] - 0.02, "early", ha="left", va="center", color=COL["early"], fontsize=6.8, clip_on=False)
-    ax.set_xlim(0, 1.0)
-    ax.set_ylim(0, 1.85)
+    ax.axvspan(theta_w, theta_star, color=COL["fill_stage2"], lw=0)
+    ax.axvspan(theta_star, theta_fc, color=COL["fill_stage1"], lw=0)
+    ax.axvspan(theta_fc, 1.0, color=COL["fill_early"], lw=0)
+    ax.plot(x2, l2, color=COL["stage2"], lw=2.2)
+    ax.plot(x1, l1, color=COL["stage1"], lw=2.2)
+    ax.plot(xw, lw, color=COL["early"], lw=2.2)
+    ax.axhline(emax, color=COL["muted"], lw=0.9, ls="--")
+    for xpos, lab in [(theta_w, r"$\theta_w$"), (theta_star, r"$\theta^*$"), (theta_fc, r"$\theta_{fc}$")]:
+        ax.axvline(xpos, ymin=0, ymax=0.82, color=COL["muted"], lw=0.8, ls="--")
+        ax.text(
+            xpos,
+            0.055,
+            lab,
+            ha="center",
+            va="bottom",
+            fontsize=7,
+            bbox=dict(facecolor="white", edgecolor="none", alpha=0.75, pad=0.4),
+        )
+
+    ax.annotate("Stage II\nwater-limited", xy=(0.31, 1.55), ha="center", va="center", color=COL["stage2"], fontsize=7)
+    ax.annotate("Stage I\nET-limited", xy=(0.66, 1.55), ha="center", va="center", color=COL["stage1"], fontsize=7)
+    ax.annotate("Wet transient\ndrainage/runoff", xy=(0.86, 1.55), ha="center", va="center", color=COL["early"], fontsize=7)
+    ax.text(0.015, emax + 0.03, r"$E_{max}$", ha="left", va="bottom", fontsize=7, color=COL["muted"])
     ax.annotate(
-        "event time",
-        xy=(0.82, 0.13),
-        xytext=(0.56, 0.13),
+        "drydown time",
+        xy=(0.74, 0.10),
+        xytext=(0.46, 0.10),
         xycoords=("data", "axes fraction"),
         textcoords=("data", "axes fraction"),
         arrowprops=dict(arrowstyle="<-", color=COL["muted"], lw=0.8),
-        fontsize=6.5,
+        fontsize=6.8,
         color=COL["muted"],
         ha="center",
         va="center",
     )
-    ax.set_xlabel(r"Normalized event storage, $x_s$ (dry 0 $\rightarrow$ wet 1)")
-    ax.set_ylabel(r"Loss rate, $L=-dS/dt$")
-    ax.set_title("Diagnostic loss rate versus storage", loc="left", fontsize=8, pad=8)
+    ax.set_xlim(0, 1.02)
+    ax.set_ylim(0, 2.28)
+    ax.set_xticks([0, 0.25, 0.50, 0.75, 1.0])
+    ax.set_xlabel(r"Soil water state, $\theta$ or $S$")
+    ax.set_ylabel(r"Loss rate, $L(\theta)$")
+    ax.set_title("Canonical three-regime loss function", loc="left", fontsize=8, pad=7)
+    style_axis(ax)
 
 
-def plot_rules(ax: plt.Axes) -> None:
-    ax.axis("off")
-    rules = [
-        ("Storage coordinate", r"$x_s(t)=\{S(t)-S_{end}\}/\{S_{start}-S_{end}\}$", COL["ink"]),
-        ("Loss rate", r"$L_i=-(S_{i+1}-S_i)/\Delta t_i$", COL["ink"]),
-        ("Stage-II-like", r"$R^2_{\mathrm{trim3}}\geq0.70$ and $r(L,x)_{\mathrm{post3}}\geq0.20$", COL["late"]),
-        ("Stage-I-like", r"$|r(L,x)_{\mathrm{post3}}|<0.20$ and $CV(L)_{\mathrm{post3}}<0.60$", COL["mid"]),
-        ("Early transient-heavy", r"$E_3\geq0.40$", COL["early"]),
-        ("Mixed/uncertain", "events not meeting the above diagnostic rules", COL["muted"]),
-    ]
-    ax.text(0.02, 0.93, "Quantity or class", ha="left", va="center", fontsize=7.2, color=COL["muted"])
-    ax.text(0.30, 0.93, "Operational definition", ha="left", va="center", fontsize=7.2, color=COL["muted"])
-    y = 0.81
-    for label, eq, color in rules:
-        ax.add_patch(
-            plt.Rectangle((0.015, y - 0.065), 0.97, 0.105, transform=ax.transAxes, facecolor="white", edgecolor="#E1E4E8", lw=0.6)
+def plot_fawn_empirical_loss(ax: plt.Axes) -> None:
+    data = pd.read_csv(EMPIRICAL)
+    order = ["Stage-II-like", "Stage-I-like", "Early transient", "Mixed/uncertain"]
+    for label in order:
+        d = data[data["regime_label"] == label].sort_values("storage_norm")
+        if d.empty:
+            continue
+        color = REGIME_COLORS[label]
+        ax.plot(d["storage_norm"], d["loss_mm_h_median"], color=color, lw=1.9, label=label)
+        ax.fill_between(
+            d["storage_norm"].to_numpy(float),
+            d["loss_mm_h_q25"].to_numpy(float),
+            d["loss_mm_h_q75"].to_numpy(float),
+            color=color,
+            alpha=0.13,
+            lw=0,
         )
-        ax.text(0.035, y, label, ha="left", va="center", fontsize=7.2, color=color, fontweight="bold")
-        ax.text(0.30, y, eq, ha="left", va="center", fontsize=7.2, color=COL["ink"])
-        y -= 0.125
+    ax.annotate(
+        "event time",
+        xy=(0.78, 0.10),
+        xytext=(0.52, 0.10),
+        xycoords=("data", "axes fraction"),
+        textcoords=("data", "axes fraction"),
+        arrowprops=dict(arrowstyle="<-", color=COL["muted"], lw=0.8),
+        fontsize=6.8,
+        color=COL["muted"],
+        ha="center",
+        va="center",
+    )
+    ax.set_xlim(0, 1.0)
+    ax.set_ylim(0, max(0.88, data["loss_mm_h_q75"].quantile(0.98) * 1.10))
+    ax.set_xlabel(r"Normalized event storage, $x$ (dry 0 $\rightarrow$ wet 1)")
+    ax.set_ylabel(r"Median loss rate (mm h$^{-1}$)")
+    ax.set_title("Empirical FAWN loss-storage relation, 4 in layer", loc="left", fontsize=8, pad=7)
+    ax.legend(loc="upper left", fontsize=6.4, handlelength=1.8, ncol=1)
+    style_axis(ax)
+
+
+def plot_representative_drydown(ax: plt.Axes) -> None:
+    points = pd.read_csv(REP_POINTS)
+    event_id = points.groupby("event_id")["t_h"].max().sort_values(ascending=False).index[0]
+    d = points[points["event_id"] == event_id].sort_values("t_h").copy()
+    threshold = d["end_mm"].iloc[0] + 0.25 * (d["start_mm"].iloc[0] - d["end_mm"].iloc[0])
+    late_rows = d[d["event_storage_norm"] < 0.25]
+    t_cross = float(late_rows["t_h"].iloc[0]) if not late_rows.empty else float(d["t_h"].max())
+
+    ax.axvspan(0, 3, color=COL["fill_early"], lw=0)
+    ax.axvspan(3, t_cross, color=COL["fill_stage1"], lw=0)
+    ax.axvspan(t_cross, d["t_h"].max(), color=COL["fill_stage2"], lw=0)
+    ax.plot(d["t_h"], d["moisture_mm"], color=COL["ink"], lw=2.0)
+    ax.scatter(d["t_h"], d["moisture_mm"], s=7, color=COL["ink"], alpha=0.55, zorder=3)
+    ax.axvline(3, color=COL["early"], lw=1.0, ls="--")
+    ax.axhline(threshold, color=COL["stage2"], lw=1.0, ls=":")
+    ax.text(1.75, d["moisture_mm"].max() + 0.40, "first 3 h", ha="center", va="bottom", color=COL["early"], fontsize=6.8)
+    ax.text((3 + t_cross) / 2, d["moisture_mm"].max() + 0.40, r"post-3 h, $x_s\geq0.25$", ha="center", va="bottom", color=COL["stage1"], fontsize=6.8)
+    ax.text((t_cross + d["t_h"].max()) / 2, d["moisture_mm"].max() + 0.40, r"$x_s<0.25$", ha="center", va="bottom", color=COL["stage2"], fontsize=6.8)
+    ax.text(d["t_h"].max() * 0.98, threshold + 0.10, r"$x_s=0.25$", ha="right", va="bottom", fontsize=6.8, color=COL["stage2"])
+    ax.set_xlim(-0.25, d["t_h"].max())
+    ax.set_ylim(d["moisture_mm"].min() - 0.35, d["moisture_mm"].max() + 0.90)
+    ax.set_xlabel("Elapsed time since SMDE start (h)")
+    ax.set_ylabel("Soil water amount, S(t) (mm)")
+    ax.set_title("Representative FAWN drydown segmented for CSR", loc="left", fontsize=8, pad=7)
+    style_axis(ax)
+
+
+def plot_operational_rules(ax: plt.Axes) -> None:
+    ax.axis("off")
+    rows = [
+        ("Loss rate", r"$L_i=-(S_{i+1}-S_i)/\Delta t_i$", COL["ink"]),
+        ("Storage coordinate", r"$x=(S_{mid}-S_{min})/(S_{max}-S_{min})$", COL["ink"]),
+        ("Stage-II-like", r"$R^2_{trim3}\geq0.70$ and $r(L,x)_{post3}\geq0.20$", COL["stage2"]),
+        ("Stage-I-like", r"$|r(L,x)_{post3}|<0.20$ and $CV(L)_{post3}<0.60$", COL["stage1"]),
+        ("Early transient-heavy", r"$E_3\geq0.40$", COL["early"]),
+    ]
+    ax.text(0.02, 0.93, "Operational translation used in this study", ha="left", va="center", fontsize=8, fontweight="bold", color=COL["ink"])
+    y = 0.80
+    for label, definition, color in rows:
+        ax.add_patch(
+            plt.Rectangle((0.02, y - 0.055), 0.96, 0.095, transform=ax.transAxes, facecolor="white", edgecolor="#E1E4E8", lw=0.6)
+        )
+        ax.text(0.05, y, label, ha="left", va="center", fontsize=6.7, color=color, fontweight="bold")
+        ax.text(0.42, y, definition, ha="left", va="center", fontsize=6.45, color=COL["ink"])
+        y -= 0.13
     ax.text(
         0.02,
-        0.035,
-        "Regime labels are diagnostic proxies for event filtering, not direct flux partitioning.",
+        0.05,
+        "Labels diagnose soil-moisture behavior for event filtering; they do not partition measured fluxes.",
         ha="left",
         va="bottom",
-        fontsize=7.0,
+        fontsize=7,
         color=COL["muted"],
     )
-    ax.set_title("Event-level diagnostic rules", loc="left", fontsize=8)
+    ax.set_title("Diagnostic equations and regime labels", loc="left", fontsize=8, pad=7)
 
 
 def main() -> None:
-    fig = plt.figure(figsize=(7.4, 5.05), constrained_layout=False)
+    fig = plt.figure(figsize=(7.4, 6.15), constrained_layout=False)
     gs = fig.add_gridspec(
         2,
         2,
-        height_ratios=[1.0, 0.92],
-        width_ratios=[1.04, 1.0],
-        left=0.075,
+        left=0.08,
         right=0.985,
-        top=0.82,
-        bottom=0.11,
-        hspace=0.78,
-        wspace=0.32,
+        top=0.86,
+        bottom=0.09,
+        hspace=0.58,
+        wspace=0.34,
     )
     ax_a = fig.add_subplot(gs[0, 0])
     ax_b = fig.add_subplot(gs[0, 1])
-    ax_c = fig.add_subplot(gs[1, :])
+    ax_c = fig.add_subplot(gs[1, 0])
+    ax_d = fig.add_subplot(gs[1, 1])
 
-    plot_segmentation(ax_a)
-    plot_loss_regimes(ax_b)
-    plot_rules(ax_c)
-    add_panel_label(ax_a, "a")
-    add_panel_label(ax_b, "b")
-    add_panel_label(ax_c, "c")
+    plot_canonical_loss_function(ax_a)
+    plot_fawn_empirical_loss(ax_b)
+    plot_representative_drydown(ax_c)
+    plot_operational_rules(ax_d)
+    for ax, label in [(ax_a, "a"), (ax_b, "b"), (ax_c, "c"), (ax_d, "d")]:
+        add_panel_label(ax, label)
 
     fig.suptitle(
-        "Regime diagnosis and segmentation logic for localized segmented CSR",
-        x=0.075,
+        "Three-regime loss-function framework used to diagnose FAWN drydowns",
+        x=0.08,
         y=0.985,
         ha="left",
         fontsize=9.5,
         fontweight="bold",
         color=COL["ink"],
     )
-    fig.text(0.075, 0.935, "Diagnostic labels are used for event filtering and CSR segmentation.", ha="left", va="top", fontsize=7.2, color=COL["muted"])
+    fig.text(
+        0.08,
+        0.945,
+        "Conceptual loss functions define the regimes; FAWN 15-min observations provide the empirical loss-storage relation used for event filtering.",
+        ha="left",
+        va="top",
+        fontsize=7.3,
+        color=COL["muted"],
+    )
     save_pub(fig, "fig_regime_segmentation_concept")
 
 
 if __name__ == "__main__":
     main()
-
-

@@ -16,3 +16,10 @@ venv/
 # Optional high-resolution exports regenerated from scripts
 *.tiff
 *.tif
+
+# Manuscript drafts and journal submission files are kept outside this repository.
+manuscript/
+manuscripts/
+*manuscript*
+*.doc
+*.docx
