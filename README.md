@@ -1,4 +1,4 @@
-# SMDE CSR Journal of Hydrology Reproducibility Package
+# SMDE CSR Reproducibility Package
 
 This repository contains the code, derived data, figure source data, and manuscript-ready figures for:
 
