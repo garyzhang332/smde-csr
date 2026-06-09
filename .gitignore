@@ -1,25 +1,30 @@
 __pycache__/
-*.pyc
+*.py[cod]
 .ipynb_checkpoints/
-.DS_Store
-Thumbs.db
 
-# Raw FAWN source files are not redistributed in this repository.
-fawn_db_export/data/*.parquet
-fawn_db_export/data/*.json
-
-# Local environment files
+# Local raw FAWN exports and credentials should not be committed.
 .env
-.venv/
-venv/
+*.csv
+*.parquet
+*.json
+_analysis/**/source_data/
+_analysis/fawn_db_export/data/
+_analysis/fawn_full_smde_audit/
+_analysis/fawn_segmented_csr/
+_analysis/experiment*_*/
+_analysis/figure1_regime_segmented_framework/
+_analysis/forecast_process_schematic/
+_analysis/study_data_overview/
 
-# Optional high-resolution exports regenerated from scripts
-*.tiff
+# Generated non-PDF figure intermediates.
+*.png
+*.jpg
+*.jpeg
 *.tif
+*.tiff
+*.svg
 
-# Manuscript drafts and journal submission files are kept outside this repository.
-manuscript/
-manuscripts/
-*manuscript*
-*.doc
+# Word/manuscript artifacts are intentionally outside this public package.
 *.docx
+*.doc
+~$*

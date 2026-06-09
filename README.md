@@ -1,90 +1,57 @@
-# SMDE CSR Reproducibility Package
+# SMDE-CSR manuscript code
 
-This repository contains the code, derived data, figure source data, and manuscript-ready figures for:
+This repository contains the public-facing code and PDF figures for the SMDE-CSR Journal of Hydrology manuscript workflow.
 
-**Localized segmented soil-moisture recession curves from rainfall-validated drydown events across a monitoring network**
+Data are not included in this repository. FAWN observations can be downloaded or obtained from the Florida Automated Weather Network (FAWN). After obtaining authorized FAWN data, place compatible local exports in the paths expected by the analysis scripts before rebuilding the workflow.
 
-The analysis uses 2023-2025 Florida Automated Weather Network (FAWN) soil moisture and weather observations to detect soil moisture drydown events (SMDEs), audit their precipitation association, diagnose loss-function regimes, and construct localized segmented curve-stitching regression (CSR) curves.
+## Repository layout
 
-## Repository contents
+- `_analysis/` - analysis, experiment, and figure-generation scripts.
+- `figures/` - current manuscript figure PDFs only.
+- `requirements.txt` - Python package requirements.
 
-| Path | Contents |
-|---|---|
-| `scripts/` | Python scripts used for SMDE detection, precipitation audit, loss-function diagnosis, CSR fitting, split validation, and figure generation. |
-| `fawn_full_smde_audit/` | Derived event-level and loss-function tables from the full FAWN SMDE audit. |
-| `fawn_segmented_csr/` | Derived CSR curves, fitted local metrics, sensitivity summaries, and related point-level outputs. |
-| `experiment1_smde_detection_audit/` | Figure source tables and report for the SMDE detection audit. |
-| `experiment2_loss_function_regime_diagnosis/` | Figure source tables and report for the loss-function regime diagnosis. |
-| `experiment3_localized_segmented_csr/` | Figure source tables, representative-site data, and split-validation outputs. |
-| `figures/` | Manuscript figures in PDF, SVG, and PNG formats. TIFF files are not stored here to keep the repository size manageable. |
-| `fawn_db_export/coverage/` | Coverage summaries for the FAWN source-data pull. |
-| `fawn_db_export/schema/` | Soil moisture and weather table schema used by the extraction scripts. |
-| `manuscript/` | Current manuscript Markdown draft used to update the Data and Code Availability statements. |
+## Data access
 
-## Data access model
+The analysis uses FAWN soil moisture and rainfall observations. Please obtain the required data directly from FAWN:
 
-The raw FAWN observations are not redistributed in this repository. They are maintained by FAWN and were accessed through the project database for the study period. This repository provides the derived event tables, summary tables, source-data tables, and validation outputs needed to inspect the manuscript results and regenerate the manuscript figures.
+- FAWN website: <https://fawn.ifas.ufl.edu/>
+- For database-style local rebuilds, `_analysis/fawn_db_pull.py` expects an authorized database URL in the `FAWN_DB_URL` environment variable.
+- Raw data files, database credentials, derived event tables, and generated source tables should not be committed to this repository.
 
-To rerun the complete workflow from raw FAWN records, place the yearly source parquet files in:
+## Python environment
 
-```text
-fawn_db_export/data/
-```
-
-Expected filenames:
-
-```text
-soil_moisture_2023.parquet
-soil_moisture_2024.parquet
-soil_moisture_2025.parquet
-wx_selected_2023.parquet
-wx_selected_2024.parquet
-wx_selected_2025.parquet
-```
-
-Alternatively, if database access is available, set `FAWN_DB_URL` and use `scripts/fawn_db_pull.py` to rebuild those files.
-
-## Reproducing the main outputs
-
-Create a Python environment and install dependencies:
+Python 3.10 or newer is recommended.
 
 ```bash
 pip install -r requirements.txt
 ```
 
-The manuscript figures and summary tables can be regenerated from the included derived data:
+## Rebuilding the workflow
+
+Run commands from the repository root after preparing compatible FAWN data locally.
 
 ```bash
-python scripts/build_regime_segmentation_concept_figure.py
-python scripts/build_experiment1_smde_detection_audit.py
-python scripts/build_experiment2_loss_function_regime_diagnosis.py
-python scripts/build_experiment3_localized_segmented_csr_summary.py
-python scripts/build_experiment3_split_validation_accuracy.py
+python _analysis/fawn_full_smde_audit.py
+python _analysis/fawn_segmented_csr.py
+python _analysis/build_experiment1_smde_detection_audit.py
+python _analysis/build_experiment2_loss_function_regime_diagnosis.py
+python _analysis/build_experiment3_adaptive_regime_csr.py
+python _analysis/build_experiment4c_all_train_rate_forecast.py
 ```
 
-To rebuild the full derived workflow from raw yearly FAWN parquet files:
+## Figure build map
 
-```bash
-python scripts/fawn_full_smde_audit.py
-python scripts/fawn_segmented_csr.py
-python scripts/build_experiment1_smde_detection_audit.py
-python scripts/build_experiment2_loss_function_regime_diagnosis.py
-python scripts/build_experiment3_localized_segmented_csr_summary.py
-python scripts/build_experiment3_split_validation_accuracy.py
-```
+| Manuscript figure | Script | Output PDF |
+|---|---|---|
+| Figure 1 | `_analysis/build_figure1_study_data_overview.py` | `figures/Figure_1_study_area_and_data_overview.pdf` |
+| Figure 2 | `_analysis/build_figure1_regime_segmented_framework.py` | `figures/Figure_2_regime_segmentation_concept.pdf` |
+| Figure 3 | `_analysis/build_figure6_forecast_process_schematic.py` | `figures/Figure_3_forecast_process_schematic.pdf` |
+| Figure 4 | `_analysis/build_experiment1_smde_detection_audit.py` | `figures/Figure_4_SMDE_detection_audit.pdf` |
+| Figure 5 | `_analysis/build_experiment2_loss_function_regime_diagnosis.py` | `figures/Figure_5_loss_function_regime_diagnosis.pdf` |
+| Figure 6 | `_analysis/build_figure5_regime_specific_csr_construction.py` | `figures/Figure_6_regime_specific_CSR_curve_construction.pdf` |
+| Figure 7 | `_analysis/build_figure6_calibrated_recent_loss_forecast.py` | `figures/Figure_7_calibrated_recent_loss_forecast_validation.pdf` |
 
-## Main result mapping
+## Notes for public upload
 
-| Manuscript result | Repository files |
-|---|---|
-| Experiment 1: SMDE detection audit | `experiment1_smde_detection_audit/source_data/`, `fawn_full_smde_audit/full_smde_event_audit.csv` |
-| Experiment 2: loss-function regime diagnosis | `experiment2_loss_function_regime_diagnosis/source_data/`, `fawn_full_smde_audit/full_smde_binned_loss_by_layer_regime.csv` |
-| Experiment 3: localized segmented CSR | `experiment3_localized_segmented_csr/source_data/`, `fawn_segmented_csr/` |
-| Held-out curve agreement | `experiment3_localized_segmented_csr/source_data/experiment3_split_validation_*` |
-| Manuscript figures | `figures/` |
+This package intentionally excludes manuscript DOCX files, raw FAWN data, derived data tables, generated source-data folders, and non-PDF figure intermediates.
 
-## Notes
-
-- Depth labels such as `moisture_4in` refer to FAWN sensor-depth records expressed as equivalent water amount over the project-defined 4 in sensing support.
-- Regime labels are diagnostic proxies used for event filtering; they are not direct flux partitions.
-- Held-out validation evaluates independent-event curve agreement after state alignment, not prospective real-time forecasting.

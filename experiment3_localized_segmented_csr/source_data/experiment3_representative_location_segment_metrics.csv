@@ -1,4 +1,0 @@
-subset,site_id,layer,segment,events,points,ccc,rmse_mm,mae_mm,bias_mm,layer_label,segment_label,segment_short
-clean_stageII_48h,275,moisture_4in,early_0_3h,40,480,0.981431932863006,0.5019763151572583,0.3202206964678405,0.1091317200902103,4 in,"Early transient, 0-3 h",Early
-clean_stageII_48h,275,moisture_4in,post3_mid_storage,36,704,0.9209423308162314,0.9236010258547432,0.4958672949959963,0.0915409481093554,4 in,Post-3 h mid-storage,Mid-storage
-clean_stageII_48h,275,moisture_4in,post3_late_storage,40,645,0.9586181759448116,0.6277216193905684,0.2509173077336604,0.0536099717240728,4 in,Post-3 h low-storage tail,Low-storage
