@@ -1,22 +1,36 @@
-# SMDE-CSR manuscript code
+# SMDE-CSR response-centric manuscript code
 
-This repository contains the public-facing code and PDF figures for the SMDE-CSR Journal of Hydrology manuscript workflow.
+This repository is a public-facing staging package for the SMDE-CSR manuscript
+workflow. It documents the response-centric framing used in the current
+candidate manuscript:
 
-Data are not included in this repository. FAWN observations can be downloaded or obtained from the Florida Automated Weather Network (FAWN). After obtaining authorized FAWN data, place compatible local exports in the paths expected by the analysis scripts before rebuilding the workflow.
+> Agricultural local variability is represented as reusable soil moisture
+> event-response morphology rather than only as residual error around fixed soil
+> moisture coordinates.
+
+The package is intentionally code-and-figure focused. It does not include raw
+FAWN observations, raw on-farm records, private project data, generated source
+tables, database credentials, local absolute paths, or manuscript DOCX files.
 
 ## Repository layout
 
-- `_analysis/` - analysis, experiment, and figure-generation scripts.
-- `figures/` - current manuscript figure PDFs only.
+- `_analysis/` - public-facing analysis and figure-generation scripts.
+- `figures/` - manuscript figure PDFs only.
+- `docs/` - public documentation for data access and code mapping.
+- `data/` - empty placeholder with data-access instructions.
 - `requirements.txt` - Python package requirements.
 
-## Data access
+## Data availability
 
-The analysis uses FAWN soil moisture and rainfall observations. Please obtain the required data directly from FAWN:
+Data are not redistributed in this repository.
 
-- FAWN website: <https://fawn.ifas.ufl.edu/>
-- For database-style local rebuilds, `_analysis/fawn_db_pull.py` expects an authorized database URL in the `FAWN_DB_URL` environment variable.
-- Raw data files, database credentials, derived event tables, and generated source tables should not be committed to this repository.
+FAWN observations should be obtained directly from the Florida Automated Weather
+Network (FAWN), subject to FAWN data-access policies:
+
+<https://fawn.ifas.ufl.edu/>
+
+On-farm CIG raw records are not redistributed because they are subject to
+project data-use constraints. See `docs/DATA_AVAILABILITY.md`.
 
 ## Python environment
 
@@ -26,32 +40,44 @@ Python 3.10 or newer is recommended.
 pip install -r requirements.txt
 ```
 
-## Rebuilding the workflow
+## Response-centric workflow map
 
-Run commands from the repository root after preparing compatible FAWN data locally.
+The core theory/evidence bridge is built by:
 
 ```bash
-python _analysis/fawn_full_smde_audit.py
-python _analysis/fawn_segmented_csr.py
-python _analysis/build_experiment1_smde_detection_audit.py
-python _analysis/build_experiment2_loss_function_regime_diagnosis.py
-python _analysis/build_experiment3_adaptive_regime_csr.py
-python _analysis/build_experiment4c_all_train_rate_forecast.py
+python _analysis/build_figure2_response_centric_theory.py
 ```
 
-## Figure build map
+The response-centric 2 x 2 evidence tables are prepared by:
 
-| Manuscript figure | Script | Output PDF |
-|---|---|---|
-| Figure 1 | `_analysis/build_figure1_study_data_overview.py` | `figures/Figure_1_study_area_and_data_overview.pdf` |
-| Figure 2 | `_analysis/build_figure1_regime_segmented_framework.py` | `figures/Figure_2_regime_segmentation_concept.pdf` |
-| Figure 3 | `_analysis/build_figure6_forecast_process_schematic.py` | `figures/Figure_3_forecast_process_schematic.pdf` |
-| Figure 4 | `_analysis/build_experiment1_smde_detection_audit.py` | `figures/Figure_4_SMDE_detection_audit.pdf` |
-| Figure 5 | `_analysis/build_experiment2_loss_function_regime_diagnosis.py` | `figures/Figure_5_loss_function_regime_diagnosis.pdf` |
-| Figure 6 | `_analysis/build_figure5_regime_specific_csr_construction.py` | `figures/Figure_6_regime_specific_CSR_curve_construction.pdf` |
-| Figure 7 | `_analysis/build_figure6_calibrated_recent_loss_forecast.py` | `figures/Figure_7_calibrated_recent_loss_forecast_validation.pdf` |
+```bash
+python _analysis/build_response_centric_2x2_summary.py
+python _analysis/build_response_centric_2x2_tables_and_figure.py
+```
 
-## Notes for public upload
+These scripts expect compatible local source tables prepared by the manuscript
+analysis workflow. Private source tables are not included in this repository.
 
-This package intentionally excludes manuscript DOCX files, raw FAWN data, derived data tables, generated source-data folders, and non-PDF figure intermediates.
+## Figure map
 
+| Manuscript figure | Public PDF |
+|---|---|
+| Figure 1 | `figures/Figure_1_study_area_and_data_overview.pdf` |
+| Figure 2 | `figures/Figure_2_response_centric_theory_evidence.pdf` |
+| Figure 3 | `figures/Figure_3_forecast_process_schematic.pdf` |
+| Figure 4 | `figures/Figure_4_SMDE_detection_audit.pdf` |
+| Figure 5 | `figures/Figure_5_loss_function_regime_diagnosis.pdf` |
+| Figure 6 | `figures/Figure_6_regime_specific_CSR_curve_construction.pdf` |
+| Figure 7 | `figures/Figure_7_calibrated_recent_loss_forecast_validation.pdf` |
+
+## Public upload notes
+
+Before uploading or replacing an existing GitHub repository, verify that:
+
+- no raw data files are present;
+- no database pull scripts or connection strings are present;
+- no local absolute paths are present;
+- no DOCX manuscript files are present;
+- only PDF figures are in `figures/`.
+
+This staging package has not been pushed to GitHub.

@@ -1,0 +1,29 @@
+# Public file manifest
+
+# This manifest lists the files intended for public upload from this staging
+# package. Do not upload files outside this list without re-running the safety
+# scan.
+
+.gitignore
+README.md
+requirements.txt
+PUBLIC_FILE_MANIFEST.txt
+_analysis/build_figure2_response_centric_theory.py
+_analysis/build_onfarm_response_forecast_models.py
+_analysis/build_response_centric_2x2_static_threshold.py
+_analysis/build_response_centric_2x2_summary.py
+_analysis/build_response_centric_2x2_tables_and_figure.py
+_analysis/fawn_full_smde_audit.py
+_analysis/fawn_segmented_csr.py
+_analysis/hydro_csr_registration.py
+_analysis/smde_regime_audit.py
+data/README.md
+docs/CODE_MAP.md
+docs/DATA_AVAILABILITY.md
+figures/Figure_1_study_area_and_data_overview.pdf
+figures/Figure_2_response_centric_theory_evidence.pdf
+figures/Figure_3_forecast_process_schematic.pdf
+figures/Figure_4_SMDE_detection_audit.pdf
+figures/Figure_5_loss_function_regime_diagnosis.pdf
+figures/Figure_6_regime_specific_CSR_curve_construction.pdf
+figures/Figure_7_calibrated_recent_loss_forecast_validation.pdf

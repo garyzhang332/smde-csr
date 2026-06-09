@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
+import os
 from pathlib import Path
 from typing import Iterable
 
@@ -13,8 +14,9 @@ from scipy.optimize import curve_fit
 from scipy.signal import savgol_filter
 
 
-ALACHUA_WITH_RAIN = Path(__file__).resolve().parent / "sample_data" / "Alachua_with_rain.csv"
-OUT_DIR = Path(__file__).resolve().parent / "smde_regime_audit"
+ROOT = Path(__file__).resolve().parents[1]
+ALACHUA_WITH_RAIN = Path(os.environ.get("ALACHUA_WITH_RAIN", ROOT / "data" / "examples" / "Alachua_with_rain.csv"))
+OUT_DIR = Path(os.environ.get("SMDE_REGIME_AUDIT_OUT_DIR", ROOT / "_analysis" / "smde_regime_audit"))
 
 DEFAULT_LAYER_THICKNESS_INCHES = 6.0
 PCT_POINT_TO_MM = DEFAULT_LAYER_THICKNESS_INCHES * 25.4 / 100.0

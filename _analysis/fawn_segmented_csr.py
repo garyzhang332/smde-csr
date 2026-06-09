@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 from dataclasses import dataclass
+import os
 from pathlib import Path
 
 import matplotlib.pyplot as plt
@@ -13,8 +14,8 @@ from statsmodels.nonparametric.smoothers_lowess import lowess
 from fawn_full_smde_audit import MOISTURE_LAYERS, OUT_DIR as AUDIT_DIR, prepare_soil
 
 
-BASE_DIR = Path(__file__).resolve().parent
-OUT_DIR = BASE_DIR / "fawn_segmented_csr"
+ROOT = Path(__file__).resolve().parents[1]
+OUT_DIR = Path(os.environ.get("SMDE_SEGMENTED_CSR_OUT_DIR", ROOT / "_analysis" / "fawn_segmented_csr"))
 EVENT_AUDIT = AUDIT_DIR / "full_smde_event_audit.csv"
 
 LOWESS_BINS = 260

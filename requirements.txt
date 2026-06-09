@@ -5,6 +5,4 @@ pyarrow
 scikit-learn
 scipy
 seaborn
-sqlalchemy
 statsmodels
-

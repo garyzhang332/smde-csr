@@ -3,6 +3,7 @@ from __future__ import annotations
 import argparse
 from dataclasses import asdict
 import json
+import os
 from pathlib import Path
 
 import matplotlib.pyplot as plt
@@ -13,9 +14,9 @@ import seaborn as sns
 from smde_regime_audit import DetectionConfig, build_event_tables, summarize
 
 
-BASE_DIR = Path(__file__).resolve().parent
-DATA_DIR = BASE_DIR / "fawn_db_export" / "data"
-OUT_DIR = BASE_DIR / "fawn_full_smde_audit"
+ROOT = Path(__file__).resolve().parents[1]
+DATA_DIR = Path(os.environ.get("FAWN_EXPORT_DIR", ROOT / "data" / "fawn_exports"))
+OUT_DIR = Path(os.environ.get("SMDE_AUDIT_OUT_DIR", ROOT / "_analysis" / "fawn_full_smde_audit"))
 
 YEARS = [2023, 2024, 2025]
 PCT_TO_MM_4IN = 4.0 * 25.4 / 100.0
