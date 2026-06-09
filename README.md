@@ -1,8 +1,8 @@
 # SMDE-CSR response-centric manuscript code
 
-This repository is a public-facing staging package for the SMDE-CSR manuscript
-workflow. It documents the response-centric framing used in the current
-candidate manuscript:
+This repository is a public-facing code-and-figure package for the SMDE-CSR
+manuscript workflow. It documents the response-centric framing used in the
+current candidate manuscript:
 
 > Agricultural local variability is represented as reusable soil moisture
 > event-response morphology rather than only as residual error around fixed soil
@@ -80,4 +80,5 @@ Before uploading or replacing an existing GitHub repository, verify that:
 - no DOCX manuscript files are present;
 - only PDF figures are in `figures/`.
 
-This staging package has not been pushed to GitHub.
+For future updates, rerun the manifest and safety scans before replacing files
+in this public repository.
